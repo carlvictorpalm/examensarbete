@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2753653f-6d68-4dbd-ba82-40fda0370036" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/eferlangtad/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/eferlangtad/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,20 +30,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/eferlangtad/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="558" column="24" lean-forward="false" selection-start-line="558" selection-start-column="24" selection-end-line="558" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="class-wc-payment-gateway-cc.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/gateways/class-wc-payment-gateway-cc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1431">
+            <state relative-caret-position="225">
               <caret line="53" column="94" lean-forward="false" selection-start-line="53" selection-start-column="94" selection-end-line="53" selection-end-column="94" />
               <folding>
                 <marker date="1516713123784" expanded="true" signature="1232:1727" ph="..." />
@@ -50,6 +41,26 @@
                 <marker date="1516713123784" expanded="true" signature="1819:2354" ph="..." />
                 <marker date="1516713123784" expanded="true" signature="2419:2908" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/contact.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1332">
+              <caret line="610" column="21" lean-forward="false" selection-start-line="610" selection-start-column="21" selection-end-line="610" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -85,7 +96,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>coupon</find>
       <find>#coupon_code</find>
       <find>width: 80px</find>
       <find>.woocommerce td.product-name dl.variation dt</find>
@@ -115,6 +125,7 @@
       <find>konta</find>
       <find>cou</find>
       <find>ul</find>
+      <find>label</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -129,7 +140,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/versioner /eferlangtad2/page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/versioner /eferlangtad2/testsida.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/versioner /eferlangtad2/mail.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/versioner /eferlangtad2/style.css" />
@@ -180,6 +190,7 @@
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-customer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/eferlangtad/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/eferlangtad/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css" />
       </list>
     </option>
   </component>
@@ -230,6 +241,19 @@
               <item name="examensarbete" type="b2602c69:ProjectViewProjectNode" />
               <item name="examensarbete" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="languages" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="examensarbete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examensarbete" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="languages" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="examensarbete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examensarbete" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
@@ -237,15 +261,7 @@
               <item name="examensarbete" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="eferlangtad" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="examensarbete" type="b2602c69:ProjectViewProjectNode" />
-              <item name="examensarbete" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="eferlangtad" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="efterlangtad" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -384,12 +400,12 @@
       <workItem from="1516361523665" duration="4503000" />
       <workItem from="1516608905233" duration="7229000" />
       <workItem from="1516696776723" duration="18381000" />
-      <workItem from="1516784513040" duration="668000" />
+      <workItem from="1516784513040" duration="2699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111081000" />
+    <option name="totallyTimeSpent" value="113112000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -462,20 +478,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/eferlangtad/woocommerce.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/assets/js/thwepof-field-editor-admin.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7902">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/classes/fe/class-wepof-product-options-settings.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4304">
@@ -762,19 +764,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/gateways/class-wc-payment-gateway-cc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1431">
-          <caret line="53" column="94" lean-forward="false" selection-start-line="53" selection-start-column="94" selection-end-line="53" selection-end-column="94" />
-          <folding>
-            <marker date="1516713123784" expanded="true" signature="1232:1727" ph="..." />
-            <marker date="1516713123784" expanded="false" signature="1706:1717" ph="..." />
-            <marker date="1516713123784" expanded="true" signature="1819:2354" ph="..." />
-            <marker date="1516713123784" expanded="true" signature="2419:2908" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-checkout.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -832,6 +821,35 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="625">
           <caret line="558" column="24" lean-forward="false" selection-start-line="558" selection-start-column="24" selection-end-line="558" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/gateways/class-wc-payment-gateway-cc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="53" column="94" lean-forward="false" selection-start-line="53" selection-start-column="94" selection-end-line="53" selection-end-column="94" />
+          <folding>
+            <marker date="1516713123784" expanded="true" signature="1232:1727" ph="..." />
+            <marker date="1516713123784" expanded="false" signature="1706:1717" ph="..." />
+            <marker date="1516713123784" expanded="true" signature="1819:2354" ph="..." />
+            <marker date="1516713123784" expanded="true" signature="2419:2908" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1332">
+          <caret line="610" column="21" lean-forward="false" selection-start-line="610" selection-start-column="21" selection-end-line="610" selection-end-column="21" />
           <folding />
         </state>
       </provider>

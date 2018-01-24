@@ -604,3 +604,9 @@ dt.variation- {
 .woocommerce .quantity .qty {
     background-color: antiquewhite;
 }
+div.wpcf7 .ajax-loader {
+    display: none !important;
+}
+.test {
+    background: black;
+}
