@@ -608,6 +608,9 @@ dt.variation- {
 div.wpcf7 .ajax-loader {
     display: none !important;
 }
-.test {
-    background: black;
+.wpcf7-textarea {
+    width: 458px;
+    height: 216px;
+    background-color: antiquewhite;
+    border: none;
 }
