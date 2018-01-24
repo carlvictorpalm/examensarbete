@@ -608,4 +608,6 @@ div.wpcf7 .ajax-loader {
 
 .hasse {
     background-color: hasse;
+    margin: auto;
+    padding-top: 1px;
 }

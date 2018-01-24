@@ -23,84 +23,12 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-<<<<<<< HEAD
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="525">
-      <file leaf-file-name="class-wc-payment-gateway-cc.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/gateways/class-wc-payment-gateway-cc.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="53" column="94" lean-forward="false" selection-start-line="53" selection-start-column="94" selection-end-line="53" selection-end-column="94" />
-              <folding>
-                <marker date="1516713123784" expanded="true" signature="1232:1727" ph="..." />
-                <marker date="1516713123784" expanded="false" signature="1706:1717" ph="..." />
-                <marker date="1516713123784" expanded="true" signature="1819:2354" ph="..." />
-                <marker date="1516713123784" expanded="true" signature="2419:2908" ph="..." />
-              </folding>
-=======
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="cart.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/woocommerce/cart/cart.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-26">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1516786402430" expanded="true" signature="2655:2662" ph="×" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/contact.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
->>>>>>> b13056d5dec44e1c6a96696c59bef198d0b325fd
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/contact.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1332">
-              <caret line="610" column="21" lean-forward="false" selection-start-line="610" selection-start-column="21" selection-end-line="610" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="form-billing.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/checkout/form-billing.php">
-=======
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css">
->>>>>>> b13056d5dec44e1c6a96696c59bef198d0b325fd
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="537" column="18" lean-forward="true" selection-start-line="537" selection-start-column="18" selection-end-line="537" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../examensarbete1/wp-content/themes/eferlangtad/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="535" column="0" lean-forward="true" selection-start-line="535" selection-start-column="0" selection-end-line="535" selection-end-column="0" />
+            <state relative-caret-position="364">
+              <caret line="611" column="21" lean-forward="false" selection-start-line="611" selection-start-column="21" selection-end-line="611" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -117,38 +45,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-<<<<<<< HEAD
-      <find>#coupon_code</find>
-      <find>width: 80px</find>
-      <find>.woocommerce td.product-name dl.variation dt</find>
-      <find>width: 80px;</find>
-      <find>woocommerce_cart_totals</find>
-      <find>totals</find>
-      <find>class=&quot;cart_totals</find>
-      <find>wc-proceed-to-checkout</find>
-      <find>checkout-button button alt wc-forward</find>
-      <find>cart-discount coupon-start</find>
-      <find>cart-discount</find>
-      <find>woocommerce-billing-fields</find>
-      <find>billing_last_name_field</find>
-      <find>billing</find>
-      <find>woocommerce-additional-fields</find>
-      <find>cart_totals</find>
-      <find>form-row form-row-</find>
-      <find>checkout woocommerce-checkout</find>
-      <find>customer_details</find>
-      <find>check</find>
-      <find>form-row form-row-first</find>
-      <find>billing_first_name</find>
-      <find>city</find>
-      <find>woocommerce-billing-fields__field-wrapper</find>
-      <find>input</find>
-      <find>billing_address_1</find>
-      <find>konta</find>
-      <find>cou</find>
-      <find>ul</find>
-      <find>label</find>
-=======
       <find>template_single_title</find>
       <find>.thwepo-extra-options input, .thwepo-extra-options select</find>
       <find>thwepo-extra-options form-row form-row-wide</find>
@@ -179,7 +75,6 @@
       <find>woocommerce-cart-form</find>
       <find>input</find>
       <find>single_add</find>
->>>>>>> b13056d5dec44e1c6a96696c59bef198d0b325fd
     </findStrings>
     <replaceStrings>
       <replace />
@@ -194,8 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-<<<<<<< HEAD
-=======
         <option value="$PROJECT_DIR$/wp-content/themes/eferlangtad/illustration.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/eferlangtad/test_save_img_as_pdf.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/eferlangtad/test.php" />
@@ -203,7 +96,6 @@
         <option value="$PROJECT_DIR$/wp-content/themes/eferlangtad/testsida.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/versioner /eferlangtad2/dbexport" />
         <option value="$PROJECT_DIR$/wp-content/themes/versioner /eferlangtad2/page.php" />
->>>>>>> b13056d5dec44e1c6a96696c59bef198d0b325fd
         <option value="$PROJECT_DIR$/wp-content/themes/versioner /eferlangtad2/testsida.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/versioner /eferlangtad2/mail.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/versioner /eferlangtad2/style.css" />
@@ -240,13 +132,10 @@
         <option value="$PROJECT_DIR$/wp-content/themes/eferlangtad/woocommerce/content-single-product.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/cart/cart.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/eferlangtad/style.css" />
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css" />
-=======
         <option value="$PROJECT_DIR$/wp-content/themes/eferlangtad/functions.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php" />
         <option value="$PROJECT_DIR$/../examensarbete1/wp-content/themes/eferlangtad/style.css" />
->>>>>>> b13056d5dec44e1c6a96696c59bef198d0b325fd
+        <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css" />
       </list>
     </option>
   </component>
@@ -283,46 +172,6 @@
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
-<<<<<<< HEAD
-          <expand>
-            <path>
-              <item name="examensarbete" type="b2602c69:ProjectViewProjectNode" />
-              <item name="examensarbete" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="examensarbete" type="b2602c69:ProjectViewProjectNode" />
-              <item name="examensarbete" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="examensarbete" type="b2602c69:ProjectViewProjectNode" />
-              <item name="examensarbete" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="languages" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="examensarbete" type="b2602c69:ProjectViewProjectNode" />
-              <item name="examensarbete" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="languages" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="plugins" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="examensarbete" type="b2602c69:ProjectViewProjectNode" />
-              <item name="examensarbete" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="examensarbete" type="b2602c69:ProjectViewProjectNode" />
-              <item name="examensarbete" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="efterlangtad" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-          </expand>
-          <select />
-=======
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="examensarbete" />
@@ -387,63 +236,6 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examensarbete" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examensarbete" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="efterlangtad" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="woocommerce" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examensarbete" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examensarbete" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="efterlangtad" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="woocommerce" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cart" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
->>>>>>> b13056d5dec44e1c6a96696c59bef198d0b325fd
         </subPane>
       </pane>
     </panes>
@@ -575,24 +367,14 @@
       <workItem from="1516270440160" duration="7666000" />
       <workItem from="1516350972379" duration="5214000" />
       <workItem from="1516361523665" duration="4503000" />
-<<<<<<< HEAD
-      <workItem from="1516608905233" duration="7229000" />
-      <workItem from="1516696776723" duration="18381000" />
-      <workItem from="1516784513040" duration="2699000" />
-=======
       <workItem from="1516608905233" duration="7406000" />
       <workItem from="1516698171049" duration="8455000" />
-      <workItem from="1516782778143" duration="2655000" />
->>>>>>> b13056d5dec44e1c6a96696c59bef198d0b325fd
+      <workItem from="1516782778143" duration="7156000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="113112000" />
-=======
-    <option name="totallyTimeSpent" value="103186000" />
->>>>>>> b13056d5dec44e1c6a96696c59bef198d0b325fd
+    <option name="totallyTimeSpent" value="107687000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -605,6 +387,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="16" y="23" width="1409" height="819" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24286759" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -613,7 +396,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.253109" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3287483" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -664,18 +447,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/classes/fe/class-wepof-product-options-settings.php">
-=======
-    <entry file="file://$PROJECT_DIR$/wp-admin/admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1601">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-config-sample.php">
->>>>>>> b13056d5dec44e1c6a96696c59bef198d0b325fd
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -940,9 +712,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< HEAD
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-checkout.php">
-=======
     <entry file="file://$PROJECT_DIR$/wp-content/themes/eferlangtad/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -952,7 +721,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/eferlangtad/woocommerce/content-single-product.php">
->>>>>>> b13056d5dec44e1c6a96696c59bef198d0b325fd
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="525">
           <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
@@ -988,9 +756,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-26">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1516786402430" expanded="true" signature="2655:2662" ph="×" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1002,47 +768,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="537" column="18" lean-forward="true" selection-start-line="537" selection-start-column="18" selection-end-line="537" selection-end-column="18" />
+        <state relative-caret-position="300">
+          <caret line="117" column="8" lean-forward="false" selection-start-line="117" selection-start-column="8" selection-end-line="117" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../examensarbete1/wp-content/themes/eferlangtad/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="535" column="0" lean-forward="true" selection-start-line="535" selection-start-column="0" selection-end-line="535" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/gateways/class-wc-payment-gateway-cc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="53" column="94" lean-forward="false" selection-start-line="53" selection-start-column="94" selection-end-line="53" selection-end-column="94" />
-          <folding>
-            <marker date="1516713123784" expanded="true" signature="1232:1727" ph="..." />
-            <marker date="1516713123784" expanded="false" signature="1706:1717" ph="..." />
-            <marker date="1516713123784" expanded="true" signature="1819:2354" ph="..." />
-            <marker date="1516713123784" expanded="true" signature="2419:2908" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="322">
+          <caret line="614" column="1" lean-forward="true" selection-start-line="614" selection-start-column="1" selection-end-line="614" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1332">
-          <caret line="610" column="21" lean-forward="false" selection-start-line="610" selection-start-column="21" selection-end-line="610" selection-end-column="21" />
+        <state relative-caret-position="364">
+          <caret line="611" column="21" lean-forward="false" selection-start-line="611" selection-start-column="21" selection-end-line="611" selection-end-column="21" />
           <folding />
         </state>
       </provider>
