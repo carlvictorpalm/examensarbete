@@ -516,16 +516,17 @@ KONTAKT
 /*
 ADD TO CART
 */
-
 .single_add_to_cart_button {
-    margin-top: 20px;
-    background-color: darkseagreen;
-    border-radius: 20px;
+    background-color: #80a980;
     color: white;
     padding: 20px;
-    width: 30%;
+    width: 100%;
     font-size: 20px;
-    outline: hidden;
+    border: none;
+    margin-top: 35px;
+}
+.single_add_to_cart_button:hover {
+    background-color: #8fbc8f;
 }
 
 
