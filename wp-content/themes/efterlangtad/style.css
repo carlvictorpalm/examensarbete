@@ -1,0 +1,606 @@
+/*
+Theme Name: VictorDev
+Author: DevVictor
+Description: Bootstrap Wordpress Theme
+Version: 2.1
+*/
+/*
+ * Globals
+ */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #555;
+    background-color: #f9f9f9;
+
+}
+
+/*
+ * p classer.
+ */
+.aboutus p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    color: #999;
+    padding-top: 30px;
+    margin: 0px;
+}
+.aboutus h5 {
+    font-size: 28px;
+    padding-top: 30px;
+    margin: 0px;
+    font-family: 'Dancing Script', cursive;
+}
+.instagram p {
+    font-family: 'Dancing Script', cursive;
+    text-align: left;
+    font-size: 52px;
+    color: black;
+}
+#instagram img {
+    width: 10%;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+    margin-top: 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    color: #333;
+}
+
+
+/*
+ * Override Bootstrap's default container.
+ */
+
+@media (min-width: 840px) {
+    .container {
+        width: 1440px;
+    }
+
+}
+
+/*
+ * Masthead for nav
+ */
+
+.blog-masthead {
+    background-color: #f9f9f9;
+    box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
+}
+
+/* Nav links */
+.blog-nav-item {
+    position: relative;
+    display: inline-block;
+    padding: 10px;
+    font-weight: 500;
+    color: #cdddeb;
+}
+.blog-nav-item:hover,
+.blog-nav-item:focus {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Active state gets a caret at the bottom */
+.blog-nav .active {
+    color: #fff;
+}
+.blog-nav .active:after {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 0;
+    height: 0;
+    margin-left: -5px;
+    vertical-align: middle;
+    content: " ";
+    border-right: 5px solid transparent;
+    border-bottom: 5px solid;
+    border-left: 5px solid transparent;
+}
+
+
+/* Pagination */
+.pager {
+    margin-bottom: 60px;
+    text-align: left;
+}
+.pager > li > a {
+    width: 140px;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+/*
+ * Footer
+ */
+
+.blog-footer {
+    padding: 30px 0;
+    color: #999;
+    text-align: center;
+    background-color: #ECEAE5;
+    border-top: 1px solid #e5e5e5;
+}
+
+.links {
+    text-align: center;
+    background-color: #ECEAE5;
+}
+.copy {
+    margin-top: 20px;
+}
+
+/*
+
+    FRONT PAGE CSS
+
+*/
+.showcase{
+    height:600px;
+    padding: 100px 20px;
+    text-align: center;
+    border-bottom:#ccc 1px solid;
+    color:#fff;
+}
+
+.showcase h1{
+    font-size: 55px;
+    padding-bottom:20px;
+    color: #AFDFDB;
+}
+@media (max-width:991px ) {
+    .showcase h1 {
+        margin-top: -60px;
+    }
+    
+}
+
+.showcase p {
+    font-size:20px;
+    margin-bottom:50px;
+}
+.trustbar img {
+    width: 100%;
+}
+@media (min-width: 768px) {
+    .aboutus {
+        padding: 42px 0;
+    }
+    
+}
+.products {
+    padding: 5px 0;
+    margin: 5px 0;
+
+}
+.productid1, .productid2 {
+    padding: 0px;
+
+}
+.productid1 img {
+    padding: 10px 0 10px 20px;
+    width: 100%;
+
+}
+.productid2 img {
+    padding: 10px 0 10px 20px;
+    width: 100%;
+}
+
+.sale {
+    padding: 30px 0;
+    background: #FBDCCE;
+    align-items: center;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+
+.inspo {
+    margin-bottom: 30px;
+}
+.inspo img{
+    width: 100%;
+}
+.salediscount, .saleparents {
+    text-align: center;
+}
+@media (max-width: 768px) {
+    .saleparents {
+        margin-top: 20px;
+    }
+}
+.salediscount img {
+    width: 100%;
+}
+.saleparents img {
+    width: 100%;
+}
+.newsletter {
+    white-space: pre-line;
+    background: #AFDFDB;
+}
+
+.newsletter .single {
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: center;
+    position: relative;
+    z-index: 2;  }
+.newsletter .single h1 {
+    color: white;
+    text-transform: uppercase; }
+
+.newsletter .single .form-control {
+    font-size: 20px;
+    height: 50px;
+    margin: 0;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.6);
+    border-color: transparent;
+    border-radius: 20px 0px 0px 20px;
+    border-style: hidden;
+}
+@media (min-width: 768px) {
+    .newsletter .single .form-control{
+        padding: 1px 60px;
+    }
+}
+
+.newsletter .single .form-control:focus {
+    box-shadow: none;
+    border-color: #243c4f;
+}
+.newsletter .single .btn {
+    font-size: 18px;
+    min-height: 50px;
+    border-radius: 0 20px 20px 0;
+    background: #243c4f;
+    color: #fff;
+    border-style: hidden;
+}
+.newsletter p {
+    color: #fff;
+    font-size: 20px;
+}
+
+/*
+
+SKAPA TAVLAN CSS
+
+*/
+.time1 {
+    width:10%;
+}
+.time2 {
+    width: 10%;
+}
+
+input {
+    width: 60%;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    border-style: hidden;
+    outline: 0;
+}
+.quantity input {
+    width: 10%;
+}
+
+.formbutton {
+    text-align: center;
+    padding-top: 20px;
+
+}
+@media (max-width: 425px ) {
+    .btn-success {
+        padding: 15px 60px;
+    }
+}
+.form {
+    text-align: center;
+    background-color: antiquewhite;
+    border-radius: 20px 0 0 20px;
+}
+
+@media (min-width: 575px ){
+    .birthtimefield {
+        margin-left: -99px;
+    }
+}
+
+.pro1, .pro2{
+    padding:0px;
+}
+.innerform {
+    padding: 40px;
+
+}
+
+
+/*
+JQUERY OUTPUT
+*/
+
+.birthnameoutput {
+    position: absolute;
+    font-family: ‘Dancing Script’, cursive;
+    font-size: 45px;
+    color: #036881;
+    bottom: 0;
+    right: 50%;
+    margin-bottom: -490px;
+}
+
+
+.birthlengthoutput {
+    position: absolute;
+    bottom: 0;
+    left: 21%;
+    margin-bottom: -530px;
+}
+.birthweightoutput {
+    position: absolute;
+    bottom: 0%;
+    right: 35%;
+    margin-bottom: -530px;
+}
+
+.birthdayoutput {
+    position: absolute;
+    bottom: 0;
+    left: 30%;
+    margin-bottom: -530px;
+}
+.birthhours {
+    position: absolute;
+    bottom: 0;
+    right: 51%;
+    margin-bottom: -530px;
+}
+.birthminutes {
+    position: absolute;
+    bottom: 0;
+    right: 48%;
+    margin-bottom: -530px;
+}
+@media (max-width: 575px ) {
+    .birthnameoutput {
+        top: 74%;
+    }
+
+    .birthlengthoutput {
+        left: 14%;
+    }
+
+    .birthweightoutput {
+        right: 0%;
+    }
+
+    .birthdayoutput {
+        left: 36%;
+    }
+
+    .birthhours {
+        right: 38%;
+    }
+    .birthminutes {
+        right: 35%;
+    }
+}
+
+    /*
+
+
+
+    SKAPAT PÅ TIDIGARE VERSION
+
+     */
+.title {
+    text-align: center;
+}
+
+.title h1{
+    margin: 40px 30px;
+    text-align: center;
+    border-bottom: 4px solid black;
+    display: inline-block;
+    font-weight: 700;
+    line-height: 1em;
+    letter-spacing: .135em;
+    padding-bottom: .5em;
+    text-transform: uppercase;
+}
+.title h3 {
+    font-size: 28px;
+    font-family: 'Shadows Into Light', cursive;
+    line-height: 35px;
+    text-align: center;
+    margin-bottom: 45px;
+}
+.about_img{
+    display: table;
+    line-height: 1%;
+    margin: auto 10px 20px 10px;
+    opacity: 1;
+    position: relative;
+    top: 0;
+    width: 100%;
+}
+/* Heart Icon
+--------------------------------------------- */
+
+.site-footer .icon {
+    font-size: 20px;
+}
+
+.site-footer .love .icon {
+    font-size: 20px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+/*
+ABOUT US
+*/
+.workspace {
+    padding-left: 20px;
+}
+.aboutusimg img {
+    width: 100%;
+}
+.process {
+    padding-top: 20px;
+}
+.merit {
+    padding-top: 20px;
+}
+
+.merit:hover, .process:hover{
+    opacity: 0.7;
+
+}
+.process img {
+    width: 100%;
+}
+
+.merit img {
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.ingress {
+    margin-top:20px;
+    margin-bottom: 50px;
+    background-color: white;
+
+}
+@media (min-width: 575px ){
+    .ingress {
+        padding: 167px 88px;
+    }
+}
+
+/*
+KONTAKT
+*/
+.contactform {
+    border: 5px solid antiquewhite;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.contactform input {
+    width: 100%;
+    border-radius: 0px;
+    text-align: center;
+    background-color: antiquewhite;
+}
+.wpcf7-form-control wpcf7-text wpcf7-validates-as-required {
+
+}
+.contactbutton input {
+    width: 20%;
+    background-color: #65a8a7;
+    margin-bottom: 30px;
+    color: white;
+}
+/*
+ADD TO CART
+*/
+
+.single_add_to_cart_button {
+    margin-top: 20px;
+    background-color: darkseagreen;
+    border-radius: 20px;
+    color: white;
+    padding: 20px;
+    width: 30%;
+    font-size: 20px;
+    outline: hidden;
+}
+
+
+/*
+NEW FORM CSS
+*/
+.cart {
+    background-color: antiquewhite;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+input#birth_hours {
+    width: 25%;
+    float: right;
+}
+input#birth_minutes {
+    width: 25%;
+    float:left;
+}
+p.thwepo-extra-options.form-row.form-row-wide {
+    font-size: 20px;
+    padding: 0px;
+}
+.labelhours, .labelname, .labelday, .labellength, .labelweight {
+    display: none;
+}
+.labelminutes {
+    align-items: center;
+    display: flex;
+    margin: 0 2px 0 2px;
+}
+.required {
+    display: none;
+}
+.min {
+    display: flex;
+}
+.woocommerce-product-gallery.woocommerce-product-gallery--with-images.woocommerce-product-gallery--columns-4.images.col-lg-6 {
+    clear: both;
+}
+.hasse {
+    clear: both;
+}
+
+/*
+WOOCOMMERCE
+*/
+.woocommerce {
+    background-color: antiquewhite;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+th {
+    font-size: 20px;
+}
+.woocommerce table.shop_table td {
+    border-top: 2px solid rgba(0,0,0,.1) !important;
+}
+
+dd.variation-FDELSETID, dd.variation- {
+    display: inline-flex;
+}
+dt.variation- {
+    display: none !important;
+}
+.coupon #coupon_code {
+    width: 100%;
+    display: block;
+    border-radius: 0px;
+    margin: 10px 0;
+}
+.coupon input {
+    width: 100%;
+}
+.woocommerce .quantity .qty {
+    background-color: antiquewhite;
+}
