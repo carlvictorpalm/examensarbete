@@ -610,4 +610,6 @@ div.wpcf7 .ajax-loader {
     background-color: hasse;
     margin: auto;
     padding-top: 1px;
+    text-align: center;
+    color: #00A0D2;
 }

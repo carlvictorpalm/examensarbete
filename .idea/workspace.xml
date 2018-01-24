@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2753653f-6d68-4dbd-ba82-40fda0370036" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="611" column="21" lean-forward="false" selection-start-line="611" selection-start-column="21" selection-end-line="611" selection-end-column="21" />
+            <state relative-caret-position="394">
+              <caret line="613" column="19" lean-forward="false" selection-start-line="613" selection-start-column="19" selection-end-line="613" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -369,12 +368,12 @@
       <workItem from="1516361523665" duration="4503000" />
       <workItem from="1516608905233" duration="7406000" />
       <workItem from="1516698171049" duration="8455000" />
-      <workItem from="1516782778143" duration="7156000" />
+      <workItem from="1516782778143" duration="7391000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="107687000" />
+    <option name="totallyTimeSpent" value="107922000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -786,8 +785,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="611" column="21" lean-forward="false" selection-start-line="611" selection-start-column="21" selection-end-line="611" selection-end-column="21" />
+        <state relative-caret-position="394">
+          <caret line="613" column="19" lean-forward="false" selection-start-line="613" selection-start-column="19" selection-end-line="613" selection-end-column="19" />
           <folding />
         </state>
       </provider>
