@@ -107,11 +107,17 @@
         <div class="col-lg-6">
             <div class="salediscount">
                 <img src="<?php echo get_bloginfo('template_url') ?>/img/rabatt.png" alt="">
+                <div class="middle">
+                    <div class="text">När du gör ditt första köp får du alltid 10% rabatt</div>
+                </div>
             </div>
         </div>
         <div class="col-lg-6">
             <div class="saleparents">
                 <img src="<?php echo get_bloginfo('template_url') ?>/img/parents.png" alt="">
+                <div class="middle">
+                    <div class="text">Ge bort en underbar gåva till nyblivna mormor, morfar, farmor, och farfar</div>
+                </div>
             </div>
         </div>
     </div>
