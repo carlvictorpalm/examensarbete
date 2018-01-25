@@ -605,3 +605,16 @@ div.wpcf7 .ajax-loader {
     background-color: antiquewhite;
     border:none;
 }
+
+
+/*
+POSITION PÅ PRISET FÖR SKAPA TAVLAN
+*/
+.summary.entry-summary {
+    position: relative;
+}
+span.woocommerce-Price-amount.amount {
+    position: absolute;
+    bottom: 150px;
+    left: 325px;
+}
