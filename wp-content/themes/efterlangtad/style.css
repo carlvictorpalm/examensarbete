@@ -240,28 +240,35 @@ SALE BUTTONS
     font-size: 16px;
     padding: 16px 32px;
 }
+
+
+.salediscount, .saleparents {
+    text-align: center;
+}
+.salediscount img, .saleparents img {
+    width: 100%;
+}
+/*
+MOBILE VERSION
+*/
+@media (max-width: 768px) {
+    .saleparents {
+        margin-top: 20px;
+    }
+}
+@media (max-width: 768px) {
+    .saleparents {
+        margin-top: 20px;
+    }
+}
+/*
+INSPIRATION BAR BUTTON
+*/
 .inspo {
     margin-bottom: 30px;
 }
 .inspo img{
     width: 100%;
-}
-.salediscount, .saleparents {
-    text-align: center;
-}
-@media (max-width: 768px) {
-    .saleparents {
-        margin-top: 20px;
-    }
-}
-.salediscount img, .saleparents img {
-    width: 100%;
-}
-
-@media (max-width: 768px) {
-    .saleparents {
-        margin-top: 20px;
-    }
 }
 /*
 NEWSLETTER
