@@ -174,6 +174,9 @@ FRONT PAGE CSS
     }
 
 }
+/*
+PRODUCT GALLERY FRONT PAGE
+*/
 .products {
     padding: 5px 0;
     margin: 5px 0;
@@ -185,8 +188,6 @@ FRONT PAGE CSS
     padding: 10px 0 10px 20px;
     width: 100%;
 }
-
-
 /*
 SALE BUTTONS
 */
@@ -248,29 +249,35 @@ SALE BUTTONS
     font-size: 16px;
     padding: 16px 32px;
 }
+.salediscount, .saleparents {
+    text-align: center;
+}
+.salediscount img, .saleparents img {
+    width: 100%;
+}
+/*
+MOBILE VERSION BUTTONS | SALEDISCOUNT | SALEPARENTS
+*/
+@media (max-width: 768px) {
+    .saleparents {
+        margin-top: 20px;
+    }
+}
+@media (max-width: 768px) {
+    .saleparents {
+        margin-top: 20px;
+    }
+}
+/*
+INSPIRATION IMAGE BAR BUTTON
+*/
 .inspo {
     margin-bottom: 30px;
 }
 .inspo img{
     width: 100%;
 }
-.salediscount, .saleparents {
-    text-align: center;
-}
-@media (max-width: 768px) {
-    .saleparents {
-        margin-top: 20px;
-    }
-}
-.salediscount img, .saleparents img {
-    width: 100%;
-}
 
-@media (max-width: 768px) {
-    .saleparents {
-        margin-top: 20px;
-    }
-}
 /*
 NEWSLETTER
 */
@@ -612,9 +619,6 @@ POSITION PÅ PRISET FÖR SKAPA TAVLAN
     position: relative;
 }
 span.woocommerce-Price-amount.amount {
-    position: absolute;
-    bottom: 150px;
-    left: 332px;
     font-size: 20px;
     font-weight: bold;
 }
