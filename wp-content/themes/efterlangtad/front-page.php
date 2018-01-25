@@ -73,8 +73,9 @@
                 trendiga posters att pryda era väggar.
                 Lycka till i all framtid och glöm inte att ta tillvara på varje liten sekund tillsammans. </p>
             <h5>/ efterlängtad.se</h5>
-
+        </div>
     </div>
+
     <!--
        PRODUKTER
     -->
@@ -101,6 +102,7 @@
     <!-- 
        SALE
     -->
+
     <div class="sale col-lg-12">
         <div class="col-lg-6">
             <div class="salediscount">
