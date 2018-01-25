@@ -46,7 +46,7 @@ require get_template_directory(). '/inc/customizer.php';
 
 // Google fonts * Roboto | Dancing Script
 function wpb_add_google_fonts() {
-	wp_enqueue_style( 'wpb-google-fonts', 'https://fonts.googleapis.com/css?family=Dancing+Script|Roboto', false );
+	wp_enqueue_style( 'wpb-google-fonts', 'https://fonts.googleapis.com/css?family=Dancing+Script|Roboto|Shadows+Into+Light+Two', false );
 }
 add_action( 'wp_enqueue_scripts', 'wpb_add_google_fonts' );
 
