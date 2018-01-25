@@ -226,15 +226,25 @@ SALE BUTTONS
     -ms-transform: translate(-50%, -50%);
     text-align: center;
 }
-.sale:hover .images {
+.salediscount:hover .images {
     opacity: 0.3;
 }
-
-.sale:hover .middle {
+.salediscount:hover .middle {
     opacity: 1;
 }
-
-.text {
+.saleparents:hover .images {
+    opacity: 0.3;
+}
+.saleparents:hover .middle {
+    opacity: 1;
+}
+.text1 {
+    background-color: #AFDFDB;
+    color: white;
+    font-size: 16px;
+    padding: 16px 32px;
+}
+.text2 {
     background-color: #AFDFDB;
     color: white;
     font-size: 16px;
