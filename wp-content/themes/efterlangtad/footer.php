@@ -19,8 +19,8 @@
       <div class="links">
         <div class="footerlinks col-lg-4">
         <h3>LÄNKAR</h3>
-            <p><a href="http://localhost/examensarbete/skapa-tavla/">Skapa tavla</a></p>
-            <p><a href="http://localhost/examensarbete/inspiration/">Inspiration</a></p>
+            <p><a href="http://localhost/examensarbete/product/hasse/">Skapa tavla</a></p>
+            <p><a href="http://localhost/examensarbete/illustrationer/">Inspiration</a></p>
             <p><a href="http://localhost/examensarbete/kontakt/">Kontakt</a></p>
             <p><a href="http://localhost/examensarbete/om-oss/">Om oss</a></p>
             <p><a href="#">Frågor & Svar</a></p>

@@ -600,6 +600,16 @@ dt.variation- {
 .coupon input {
     width: 100%;
 }
+input#updatebutton {
+    width: 30%;
+}
+.woocommerce-billing-fields__field-wrapper input {
+    border-radius: 0px;
+}
+.woocommerce #payment #place_order {
+    width: 100%;
+    padding: 20px;
+}
 .woocommerce .quantity .qty {
     background-color: antiquewhite;
 }
