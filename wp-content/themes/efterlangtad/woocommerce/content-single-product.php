@@ -50,7 +50,7 @@ if ( post_password_required() ) {
      * @hooked woocommerce_show_product_sale_flash - 10
      */
     ?>
-    <div class="hasse col-lg-6">
+    <div class="produktbild col-lg-6">
 
     <?php
     /**

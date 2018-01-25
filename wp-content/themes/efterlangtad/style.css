@@ -504,7 +504,7 @@ p.thwepo-extra-options.form-row.form-row-wide {
 .woocommerce-product-gallery.woocommerce-product-gallery--with-images.woocommerce-product-gallery--columns-4.images.col-lg-6 {
     clear: both;
 }
-.hasse {
+.produktbild {
     clear: both;
 }
 /*
@@ -554,7 +554,7 @@ POSITION PÅ PRISET FÖR SKAPA TAVLAN
 span.woocommerce-Price-amount.amount {
     position: absolute;
     bottom: 150px;
-    left: 315px;
+    left: 332px;
     font-size: 20px;
     font-weight: bold;
 }
