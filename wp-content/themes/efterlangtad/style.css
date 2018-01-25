@@ -622,6 +622,9 @@ span.woocommerce-Price-amount.amount {
     font-size: 20px;
     font-weight: bold;
 }
+#wc-stripe-payment-request-wrapper{
+    display: none;
+}
 /*
 INSTAGRAM
 */
@@ -642,8 +645,8 @@ INSTAGRAM
     flex-basis:calc(100%/10);
     line-height:0;
     transition:opacity .2s ease-in-out;
-    border:.5vw solid transparent}
-
+    border:.5vw solid transparent
+}
 #instagram a:hover{
     opacity:2;
 }
