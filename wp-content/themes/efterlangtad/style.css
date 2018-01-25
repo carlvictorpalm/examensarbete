@@ -217,6 +217,7 @@ FRONT PAGE CSS
 .newsletter {
     white-space: pre-line;
     background: #AFDFDB;
+    margin-bottom: 20px;
 }
 
 .newsletter .single {
@@ -272,7 +273,6 @@ FRONT PAGE CSS
     background-color: #ECEAE5;
     border-top: 1px solid #e5e5e5;
 }
-
 .links {
     text-align: center;
     background-color: #ECEAE5;
@@ -280,21 +280,15 @@ FRONT PAGE CSS
 .copy {
     margin-top: 20px;
 }
-
 /*
-
 SKAPA TAVLAN CSS
-
 */
-
 .quantity input {
     width: 10%;
 }
-
 .formbutton {
     text-align: center;
     padding-top: 20px;
-
 }
 @media (max-width: 425px ) {
     .btn-success {
@@ -306,13 +300,11 @@ SKAPA TAVLAN CSS
     background-color: antiquewhite;
     border-radius: 20px 0 0 20px;
 }
-
 @media (min-width: 575px ){
     .birthtimefield {
         margin-left: -99px;
     }
 }
-
 .pro1, .pro2{
     padding:0px;
 }
@@ -322,7 +314,6 @@ SKAPA TAVLAN CSS
 /*
 JQUERY OUTPUT
 */
-
 .birthnameoutput {
     position: absolute;
     font-family: ‘Dancing Script’, cursive;
@@ -332,7 +323,6 @@ JQUERY OUTPUT
     right: 50%;
     margin-bottom: -490px;
 }
-
 .birthlengthoutput {
     position: absolute;
     bottom: 0;
@@ -345,7 +335,6 @@ JQUERY OUTPUT
     right: 35%;
     margin-bottom: -530px;
 }
-
 .birthdayoutput {
     position: absolute;
     bottom: 0;
@@ -368,19 +357,15 @@ JQUERY OUTPUT
     .birthnameoutput {
         top: 74%;
     }
-
     .birthlengthoutput {
         left: 14%;
     }
-
     .birthweightoutput {
         right: 0%;
     }
-
     .birthdayoutput {
         left: 36%;
     }
-
     .birthhours {
         right: 38%;
     }
@@ -388,9 +373,9 @@ JQUERY OUTPUT
         right: 35%;
     }
 }
-
-/* Heart Icon
---------------------------------------------- */
+/*
+Heart Icon
+*/
 
 .site-footer .icon {
     font-size: 20px;
@@ -436,7 +421,6 @@ ABOUT US
     width: 100%;
     margin-bottom: 20px;
 }
-
 .ingress {
     margin-top:20px;
     margin-bottom: 50px;

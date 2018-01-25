@@ -1,7 +1,7 @@
 / to-do-list
 front-page: produkt img :hover :link -Kim
 skapa tavla:
-kr:summa
+kr:summa ->KLAR
 runda form höger hörn
 output
 ny bild
