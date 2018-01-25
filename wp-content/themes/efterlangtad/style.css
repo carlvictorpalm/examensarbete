@@ -74,6 +74,14 @@ h6, .h6 {
     margin-bottom: 45px;
 }
 
+input {
+    width: 60%;
+    padding: 20px;
+    font-size: 20px;
+    border-radius: 20px;
+    border-style: hidden;
+    outline: 0;
+}
 
 /*
  * Override Bootstrap's default container.
@@ -299,21 +307,7 @@ h6, .h6 {
 SKAPA TAVLAN CSS
 
 */
-.time1 {
-    width:10%;
-}
-.time2 {
-    width: 10%;
-}
 
-input {
-    width: 60%;
-    padding: 20px;
-    font-size: 20px;
-    border-radius: 20px;
-    border-style: hidden;
-    outline: 0;
-}
 .quantity input {
     width: 10%;
 }
@@ -573,11 +567,9 @@ WOOCOMMERCE
     padding: 20px;
     margin-bottom: 20px;
 }
-
 .woocommerce table.shop_table td {
     border-top: 2px solid rgba(0,0,0,.1) !important;
 }
-
 dd.variation-FDELSETID, dd.variation- {
     display: inline-flex;
 }
@@ -605,8 +597,6 @@ div.wpcf7 .ajax-loader {
     background-color: antiquewhite;
     border:none;
 }
-
-
 /*
 POSITION PÅ PRISET FÖR SKAPA TAVLAN
 */
