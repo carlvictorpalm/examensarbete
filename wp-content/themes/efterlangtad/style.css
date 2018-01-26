@@ -277,6 +277,11 @@ INSPIRATION IMAGE BAR BUTTON
 .inspo img{
     width: 100%;
 }
+@media (max-width: 320px) {
+    .inspo {
+        margin: 0;
+    }
+}
 
 /*
 NEWSLETTER
@@ -285,6 +290,7 @@ NEWSLETTER
     white-space: pre-line;
     background: #AFDFDB;
     margin-bottom: 20px;
+    display: inline-block;
 }
 
 .newsletter .single {
@@ -350,9 +356,21 @@ NEWSLETTER
 /*
 SKAPA TAVLAN
 */
+.woocommerce-product-gallery__image img {
+    width: 100%;
+}
 .quantity input {
     width: 10%;
 }
+@media (max-width: 320px) {
+    .quantity {
+        display: inline-block;
+    }
+    .quantity input {
+        width: 25%;
+    }
+}
+
 .formbutton {
     text-align: center;
     padding-top: 20px;
@@ -393,51 +411,51 @@ JQUERY OUTPUT
 .birthlengthoutput {
     position: absolute;
     bottom: 0;
-    left: 21%;
+    left: 16%;
     margin-bottom: -530px;
 }
 .birthweightoutput {
     position: absolute;
     bottom: 0%;
-    right: 35%;
+    right: 46%%;
     margin-bottom: -530px;
 }
 .birthdayoutput {
     position: absolute;
     bottom: 0;
-    left: 30%;
+    left: 24%;
     margin-bottom: -530px;
 }
 .birthhours {
     position: absolute;
     bottom: 0;
-    right: 51%;
+    right: 62%;
     margin-bottom: -530px;
 }
 .birthminutes {
     position: absolute;
     bottom: 0;
-    right: 48%;
+    right: 59%;
     margin-bottom: -530px;
 }
-@media (max-width: 575px ) {
-    .birthnameoutput {
-        top: 74%;
-    }
+@media (max-width: 320px ) {
     .birthlengthoutput {
-        left: 14%;
+        left: 9%;
+    }
+    .birthnameoutput {
+        right: 27px;
     }
     .birthweightoutput {
-        right: 0%;
+        right: 2%;
     }
     .birthdayoutput {
-        left: 36%;
+        left: 29%;
     }
     .birthhours {
         right: 38%;
     }
     .birthminutes {
-        right: 35%;
+        right: 32%;
     }
 }
 /*
@@ -559,9 +577,22 @@ input#birth_minutes {
     width: 25%;
     float:left;
 }
+@media (max-width: 320px) {
+    input#birth_minutes {
+        width: 66% !important;
+    }
+    input#birth_hours {
+        width: 40% !important;
+    }
+}
 p.thwepo-extra-options.form-row.form-row-wide {
     font-size: 20px;
     padding: 0px;
+}
+@media (max-width: 320px) {
+    .thwepo-extra-options input {
+        width: 100% !important;
+    }
 }
 .labelhours, .labelname, .labelday, .labellength, .labelweight {
     display: none;
@@ -570,6 +601,11 @@ p.thwepo-extra-options.form-row.form-row-wide {
     align-items: center;
     display: flex;
     margin: 0 2px 0 2px;
+}
+@media (max-width: 320px) {
+    .labelminutes {
+        display: none;
+    }
 }
 .required {
     display: none;
@@ -654,6 +690,7 @@ span.woocommerce-Price-amount.amount {
 #wc-stripe-payment-request-wrapper{
     display: none;
 }
+
 /*
 INSTAGRAM
 */
@@ -675,6 +712,11 @@ INSTAGRAM
     line-height:0;
     transition:opacity .2s ease-in-out;
     border:.5vw solid transparent
+}
+@media (max-width: 320px){
+    #instagram a {
+        flex-basis:calc(100%/2);
+    }
 }
 #instagram a:hover{
     opacity:2;
