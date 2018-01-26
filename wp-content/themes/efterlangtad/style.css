@@ -464,6 +464,12 @@ ABOUT US
     top: 0;
     width: 100%;
 }
+.aboutuspage h5 {
+    font-size: 28px;
+    padding-top: -5px;
+    margin: 0px;
+    font-family: 'Dancing Script', cursive;
+}
 .workspace {
     padding-left: 20px;
 }
@@ -517,6 +523,9 @@ KONTAKT
     background-color: #65a8a7;
     margin-bottom: 30px;
     color: white;
+}
+.contactbutton input:hover {
+    background: #83d1d0;
 }
 /*
 ADD TO CART
