@@ -38,7 +38,7 @@
 
         $("#birth_hours").keyup(function(){
             var currentText = $(this).val();
-            $(".birthhours").text(currentText);
+            $(".birthhours").text(currentText +':');
         });
         $("#birth_minutes").keyup(function(){
             var currentText = $(this).val();

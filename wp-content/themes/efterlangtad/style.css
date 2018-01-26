@@ -406,7 +406,7 @@ JQUERY OUTPUT
     color: #036881;
     bottom: 0;
     right: 50%;
-    margin-bottom: -490px;
+    margin-bottom: -505px;
 }
 .birthlengthoutput {
     position: absolute;
@@ -423,19 +423,19 @@ JQUERY OUTPUT
 .birthdayoutput {
     position: absolute;
     bottom: 0;
-    left: 24%;
+    left: 25%;
     margin-bottom: -530px;
 }
 .birthhours {
     position: absolute;
     bottom: 0;
-    right: 62%;
+    right: 58%;
     margin-bottom: -530px;
 }
 .birthminutes {
     position: absolute;
     bottom: 0;
-    right: 59%;
+    right: 55%;
     margin-bottom: -530px;
 }
 @media (max-width: 320px ) {
