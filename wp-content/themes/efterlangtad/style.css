@@ -2,12 +2,11 @@
 Theme Name: VictorDev
 Author: DevVictor
 Description: Bootstrap Wordpress Theme
-Version: 2.1
+Version: 3.0
 */
 /*
  * Globals
  */
-
 body {
     font-family: 'Roboto', sans-serif;
     color: #555;
@@ -16,30 +15,6 @@ body {
 th {
     font-size: 20px;
 }
-/*
- * p classer.
- */
-.aboutus p {
-    font-family: 'Roboto', sans-serif;
-    font-size: 22px;
-    color: #999;
-    padding-top: 30px;
-    margin: 0px;
-}
-.aboutus h5 {
-    font-size: 28px;
-    padding-top: 30px;
-    margin: 0px;
-    font-family: 'Dancing Script', cursive;
-}
-.instagram p {
-    font-family: 'Dancing Script', cursive;
-    text-align: left;
-    font-size: 52px;
-    color: black;
-}
-
-
 h1, .h1,
 h2, .h2,
 h3, .h3,
@@ -54,7 +29,6 @@ h6, .h6 {
 .title {
     text-align: center;
 }
-
 .title h1{
     margin: 40px 30px;
     border-bottom: 4px solid black;
@@ -71,7 +45,6 @@ h6, .h6 {
     line-height: 35px;
     margin-bottom: 45px;
 }
-
 input {
     width: 60%;
     padding: 20px;
@@ -80,11 +53,9 @@ input {
     border-style: hidden;
     outline: 0;
 }
-
 /*
  * Override Bootstrap's default container.
  */
-
 @media (min-width: 840px) {
     .container {
         width: 1440px;
@@ -93,7 +64,6 @@ input {
 /*
  * Masthead for nav
  */
-
 .blog-masthead {
     background-color: #f9f9f9;
     box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
@@ -112,7 +82,6 @@ input {
     color: #fff;
     text-decoration: none;
 }
-
 /* Active state gets a caret at the bottom */
 .blog-nav .active {
     color: #fff;
@@ -156,23 +125,12 @@ FRONT PAGE CSS
     padding-bottom:20px;
     color: #AFDFDB;
 }
-@media (max-width:991px ) {
-    .showcase h1 {
-        margin-top: -60px;
-    }
-}
 .showcase p {
     font-size:20px;
     margin-bottom:50px;
 }
 .trustbar img {
     width: 100%;
-}
-@media (min-width: 768px) {
-    .aboutus {
-        padding: 42px 0;
-    }
-
 }
 /*
 PRODUCT GALLERY FRONT PAGE
@@ -214,7 +172,6 @@ SALE BUTTONS
     transition: .5s ease;
     backface-visibility: hidden;
 }
-
 .middle {
     transition: .5s ease;
     opacity: 0;
@@ -256,19 +213,6 @@ SALE BUTTONS
     width: 100%;
 }
 /*
-MOBILE VERSION BUTTONS | SALEDISCOUNT | SALEPARENTS
-*/
-@media (max-width: 768px) {
-    .saleparents {
-        margin-top: 20px;
-    }
-}
-@media (max-width: 768px) {
-    .saleparents {
-        margin-top: 20px;
-    }
-}
-/*
 INSPIRATION IMAGE BAR BUTTON
 */
 .inspo {
@@ -277,12 +221,6 @@ INSPIRATION IMAGE BAR BUTTON
 .inspo img{
     width: 100%;
 }
-@media (max-width: 320px) {
-    .inspo {
-        margin: 0;
-    }
-}
-
 /*
 NEWSLETTER
 */
@@ -292,17 +230,17 @@ NEWSLETTER
     margin-bottom: 20px;
     display: inline-block;
 }
-
 .newsletter .single {
     max-width: 700px;
     margin: 0 auto;
     text-align: center;
     position: relative;
-    z-index: 2;  }
+    z-index: 2;
+}
 .newsletter .single h1 {
     color: white;
-    text-transform: uppercase; }
-
+    text-transform: uppercase;
+}
 .newsletter .single .form-control {
     font-size: 20px;
     height: 50px;
@@ -312,11 +250,6 @@ NEWSLETTER
     border-color: transparent;
     border-radius: 20px 0px 0px 20px;
     border-style: hidden;
-}
-@media (min-width: 768px) {
-    .newsletter .single .form-control{
-        padding: 1px 60px;
-    }
 }
 .newsletter .single .form-control:focus {
     box-shadow: none;
@@ -334,11 +267,9 @@ NEWSLETTER
     color: #fff;
     font-size: 20px;
 }
-
 /*
  * Footer
  */
-
 .blog-footer {
     padding: 30px 0;
     color: #999;
@@ -362,39 +293,13 @@ SKAPA TAVLAN
 .quantity input {
     width: 10%;
 }
-@media (max-width: 320px) {
-    .quantity {
-        display: inline-block;
-    }
-    .quantity input {
-        width: 25%;
-    }
-}
-
-.formbutton {
-    text-align: center;
-    padding-top: 20px;
-}
-@media (max-width: 425px ) {
-    .btn-success {
-        padding: 15px 60px;
-    }
-}
 .form {
     text-align: center;
     background-color: antiquewhite;
     border-radius: 20px 0 0 20px;
 }
-@media (min-width: 575px ){
-    .birthtimefield {
-        margin-left: -99px;
-    }
-}
 .pro1, .pro2{
     padding:0px;
-}
-.innerform {
-    padding: 40px;
 }
 /*
 JQUERY OUTPUT
@@ -438,30 +343,9 @@ JQUERY OUTPUT
     right: 55%;
     margin-bottom: -530px;
 }
-@media (max-width: 320px ) {
-    .birthlengthoutput {
-        left: 9%;
-    }
-    .birthnameoutput {
-        right: 27px;
-    }
-    .birthweightoutput {
-        right: 2%;
-    }
-    .birthdayoutput {
-        left: 29%;
-    }
-    .birthhours {
-        right: 38%;
-    }
-    .birthminutes {
-        right: 32%;
-    }
-}
 /*
 Heart Icon
 */
-
 .site-footer .icon {
     font-size: 20px;
 }
@@ -488,6 +372,19 @@ ABOUT US
     margin: 0px;
     font-family: 'Dancing Script', cursive;
 }
+.aboutus p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 22px;
+    color: #999;
+    padding-top: 30px;
+    margin: 0px;
+}
+.aboutus h5 {
+    font-size: 28px;
+    padding-top: 30px;
+    margin: 0px;
+    font-family: 'Dancing Script', cursive;
+}
 .workspace {
     padding-left: 20px;
 }
@@ -500,14 +397,12 @@ ABOUT US
 .merit {
     padding-top: 20px;
 }
-
 .merit:hover, .process:hover{
     opacity: 0.7;
 }
 .process img {
     width: 100%;
 }
-
 .merit img {
     width: 100%;
     margin-bottom: 20px;
@@ -516,11 +411,6 @@ ABOUT US
     margin-top:20px;
     margin-bottom: 50px;
     background-color: white;
-}
-@media (min-width: 575px ){
-    .ingress {
-        padding: 104px 88px;
-    }
 }
 /*
 KONTAKT
@@ -561,7 +451,7 @@ ADD TO CART
     background-color: #8fbc8f;
 }
 /*
-NEW FORM CSS
+TAVLA
 */
 .cart {
     background-color: antiquewhite;
@@ -577,22 +467,9 @@ input#birth_minutes {
     width: 25%;
     float:left;
 }
-@media (max-width: 320px) {
-    input#birth_minutes {
-        width: 66% !important;
-    }
-    input#birth_hours {
-        width: 40% !important;
-    }
-}
 p.thwepo-extra-options.form-row.form-row-wide {
     font-size: 20px;
     padding: 0px;
-}
-@media (max-width: 320px) {
-    .thwepo-extra-options input {
-        width: 100% !important;
-    }
 }
 .labelhours, .labelname, .labelday, .labellength, .labelweight {
     display: none;
@@ -601,11 +478,6 @@ p.thwepo-extra-options.form-row.form-row-wide {
     align-items: center;
     display: flex;
     margin: 0 2px 0 2px;
-}
-@media (max-width: 320px) {
-    .labelminutes {
-        display: none;
-    }
 }
 .required {
     display: none;
@@ -630,9 +502,7 @@ WOOCOMMERCE
 .woocommerce table.shop_table td {
     border-top: 2px solid rgba(0,0,0,.1) !important;
 }
-form.woocommerce-cart-form, .woocommerce .cart-collaterals, .woocommerce-order {
-    padding: 30px;
-}
+
 dd.variation-FDELSETID, dd.variation- {
     display: inline-flex;
 }
@@ -690,7 +560,6 @@ span.woocommerce-Price-amount.amount {
 #wc-stripe-payment-request-wrapper{
     display: none;
 }
-
 /*
 INSTAGRAM
 */
@@ -713,11 +582,6 @@ INSTAGRAM
     transition:opacity .2s ease-in-out;
     border:.5vw solid transparent
 }
-@media (max-width: 320px){
-    #instagram a {
-        flex-basis:calc(100%/2);
-    }
-}
 #instagram a:hover{
     opacity:2;
 }
@@ -728,4 +592,113 @@ INSTAGRAM
     padding-top: 1%;
     padding-right: 1%;
     float: right;
+}
+.instagram p {
+    font-family: 'Dancing Script', cursive;
+    text-align: left;
+    font-size: 52px;
+    color: black;
+}
+/*
+MOBILANPPASSNING
+ */
+@media (min-width: 768px) {
+    .aboutus {
+        padding: 42px 0;
+    }
+}
+@media (min-width: 600px) {
+    .showcase h1 {
+        margin-top: -60px;
+    }
+}
+/*
+FRONTPAGE
+*/
+@media (max-width: 320px) {
+    .inspo {
+        margin: 0;
+    }
+    .saleparents {
+        margin-top: 20px;
+    }
+    .sale {
+        margin: 0px;
+    }
+}
+/*
+NYHETSBREV
+*/
+@media (min-width: 768px) {
+    .newsletter .single .form-control{
+        padding: 1px 60px;
+    }
+}
+/*
+SKAPA TAVLA JQUERY
+*/
+@media (max-width: 320px ) {
+    .birthlengthoutput {
+        left: 9%;
+    }
+    .birthnameoutput {
+        right: 27px;
+    }
+    .birthweightoutput {
+        right: 2%;
+    }
+    .birthdayoutput {
+        left: 29%;
+    }
+    .birthhours {
+        right: 38%;
+    }
+    .birthminutes {
+        right: 32%;
+    }
+    input#birth_minutes {
+        width: 66% !important;
+    }
+    input#birth_hours {
+        width: 40% !important;
+    }
+    .thwepo-extra-options input {
+        width: 100% !important;
+    }
+    .quantity {
+        display: inline-block;
+    }
+    .quantity input {
+        width: 25%;
+    }
+}
+/*
+ABOUT US
+*/
+@media (min-width: 575px ){
+    .ingress {
+        padding: 104px 88px;
+    }
+}
+/*
+FOMULÄR
+*/
+@media (max-width: 320px) {
+    .labelminutes {
+        display: none;
+    }
+    /*
+    INSTAGRAM
+    */
+    #instagram a {
+        flex-basis:calc(100%/2);
+    }
+}
+/*
+WOOCOMMERCE
+*/
+@media (min-width: 420px) {
+    form.woocommerce-cart-form, .woocommerce .cart-collaterals, .woocommerce-order {
+        padding: 30px;
+    }
 }
