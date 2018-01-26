@@ -82,21 +82,53 @@
     <div class="products col-lg-6">
         <div class="productid1 col-lg-12">
            <div class="pro1 col-sm-6 col-lg-6">
-               <img src=" <?php echo get_bloginfo('template_url') ?>/img/product.jpg" alt="">
+               <div class="salediscount">
+                   <a href="http://localhost/examensarbete/produkt/hasse/">
+                        <img src=" <?php echo get_bloginfo('template_url') ?>/img/product.jpg" class="images" alt="">
+                            <div class="middle">
+                                <div class="text1">Börja skapa din tavla</div>
+                            </div>
+                   </a>
+                </div>
            </div>
-           <div class="pro1 col-sm-6 col-lg-6">
-               <img src="<?php echo get_bloginfo('template_url') ?>/img/product.jpg" alt="">
-           </div>
+                <div class="pro1 col-sm-6 col-lg-6">
+                    <div class="salediscount">
+                            <a href="http://localhost/examensarbete/produkt/hasse/">
+                                <img src="<?php echo get_bloginfo('template_url') ?>/img/product.jpg" class="images" alt="">
+                                 <div class="middle">
+                                     <div class="text1">Börja skapa din tavla</div>
+                                 </div>
+                            </a>
+                    </div>
+                </div>
         </div>
+
         <div class="productid2 col-lg-12">
             <div class="pro2 col-sm-6 col-lg-6">
-                <img src="<?php echo get_bloginfo('template_url') ?>/img/product.jpg" alt="">
+                <div class="salediscount">
+                    <a href="http://localhost/examensarbete/produkt/hasse/">
+                        <img src="<?php echo get_bloginfo('template_url') ?>/img/product.jpg" class="images" alt="">
+                            <div class="middle">
+                                <div class="text1">Börja skapa din tavla</div>
+                            </div>
+                    </a>
+                </div>
             </div>
             <div class="pro2 col-sm-6 col-lg-6">
-                <img src="<?php echo get_bloginfo('template_url') ?>/img/product.jpg" alt="">
+                <div class="salediscount">
+                    <a href="http://localhost/examensarbete/produkt/hasse/">
+                        <img src="<?php echo get_bloginfo('template_url') ?>/img/product.jpg" class="images" alt="">
+                             <div class="middle">
+                                <div class="text1">Börja skapa din tavla</div>
+                             </div>
+                    </a>
+                </div>
             </div>
         </div>
     </div>
+
+
+
 
 
     <!-- 
