@@ -585,6 +585,9 @@ WOOCOMMERCE
 .woocommerce table.shop_table td {
     border-top: 2px solid rgba(0,0,0,.1) !important;
 }
+form.woocommerce-cart-form, .woocommerce .cart-collaterals, .woocommerce-order {
+    padding: 30px;
+}
 dd.variation-FDELSETID, dd.variation- {
     display: inline-flex;
 }
@@ -602,6 +605,13 @@ dt.variation- {
 }
 input#updatebutton {
     width: 30%;
+}
+p.woocommerce-notice.woocommerce-notice--success.woocommerce-thankyou-order-received {
+    font-size: 20px;
+    font-weight: bold;
+}
+.woocommerce ul.order_details {
+    font-size: 20px;t
 }
 .woocommerce-billing-fields__field-wrapper input {
     border-radius: 0px;
