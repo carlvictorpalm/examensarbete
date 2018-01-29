@@ -61,7 +61,7 @@
     }
 ?>
 <script src='<?php bloginfo('template_url'); ?>/js/create-poster.js'></script>
-
+<script src='<?php bloginfo('template_url'); ?>/js/validation.js'></script>
 
 
 </body>
