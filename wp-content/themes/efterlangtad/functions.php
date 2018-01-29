@@ -65,6 +65,7 @@ function add_canvas_to_cart() {
     $product->set_attributes(['birth_name' => "Marcus"]);
     WC()->cart->add_to_cart( 65 );
 }
+//Removing acction from woocommerce standard templete
 remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_rating', 10 );
 remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_title', 5 );
 remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_price', 10 );

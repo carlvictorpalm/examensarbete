@@ -4,7 +4,6 @@ get_header(); ?>
     <!--
 	ILLUSTATION PAGE
 	-->
-
     <div class="row">
         <div class="wrapper">
 	        <?php while (have_posts()): the_post(); ?>
@@ -16,7 +15,4 @@ get_header(); ?>
                 </div>
 	        <?php endwhile;?>
         </div>
-
-
-
 <?php get_footer(); ?>

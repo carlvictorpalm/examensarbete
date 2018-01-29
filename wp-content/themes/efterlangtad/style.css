@@ -1,7 +1,7 @@
 /*
 Theme Name: VictorDev
 Author: DevVictor
-Description: Bootstrap Wordpress Theme
+Description: Examensarbete Wordpress Theme
 Version: 3.0
 */
 /*
@@ -68,7 +68,6 @@ input {
     background-color: #f9f9f9;
     box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
 }
-
 /* Nav links */
 .blog-nav-item {
     position: relative;
@@ -233,7 +232,7 @@ INSPIRATION IMAGE BAR BUTTON
     width: 100%;
 }
 /*
-NEWSLETTER SIGNUP FUNCTIONS
+NEWSLETTER SIGNUP FORM
 */
 .newsletter {
     white-space: pre-line;
@@ -572,7 +571,7 @@ span.woocommerce-Price-amount.amount {
     display: none;
 }
 /*
-INSTAGRAM FEED ON FRONTPAGE
+INSTAGRAM FEED
 */
 #instagram{
     display:flex;
@@ -692,7 +691,7 @@ ABOUT US
     }
 }
 /*
-FOMULÄR
+FORM
 */
 @media (max-width: 320px) {
     .labelminutes {
