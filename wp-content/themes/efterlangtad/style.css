@@ -233,7 +233,7 @@ INSPIRATION IMAGE BAR BUTTON
     width: 100%;
 }
 /*
-NEWSLETTER
+NEWSLETTER SIGNUP FUNCTIONS
 */
 .newsletter {
     white-space: pre-line;
@@ -279,7 +279,7 @@ NEWSLETTER
     font-size: 20px;
 }
 /*
- * Footer
+ * FOOTER
  */
 .blog-footer {
     padding: 30px 0;
@@ -296,7 +296,7 @@ NEWSLETTER
     margin-top: 20px;
 }
 /*
-SKAPA TAVLAN
+SKAPA TAVLAN PAGE
 */
 .woocommerce-product-gallery__image img {
     width: 100%;
@@ -355,7 +355,7 @@ JQUERY OUTPUT
     margin-bottom: -530px;
 }
 /*
-Heart Icon
+HEART ICON IN FOOTER
 */
 .site-footer .icon {
     font-size: 20px;
@@ -366,7 +366,7 @@ Heart Icon
     margin-right: 2px;
 }
 /*
-ABOUT US
+ABOUT US PAGE
 */
 .about_img{
     display: table;
@@ -424,7 +424,7 @@ ABOUT US
     background-color: white;
 }
 /*
-KONTAKT
+KONTAKT PAGE
 */
 .contactform {
     border: 5px solid antiquewhite;
@@ -447,7 +447,7 @@ KONTAKT
     background: #83d1d0;
 }
 /*
-ADD TO CART
+ADD TO CART PAGE
 */
 .single_add_to_cart_button {
     background-color: #80a980;
@@ -503,7 +503,7 @@ p.thwepo-extra-options.form-row.form-row-wide {
     clear: both;
 }
 /*
-WOOCOMMERCE
+WOOCOMMERCE PLUGIN COSTUM
 */
 .woocommerce {
     background-color: antiquewhite;
@@ -572,7 +572,7 @@ span.woocommerce-Price-amount.amount {
     display: none;
 }
 /*
-INSTAGRAM
+INSTAGRAM FEED ON FRONTPAGE
 */
 #instagram{
     display:flex;
@@ -611,7 +611,7 @@ INSTAGRAM
     color: black;
 }
 /*
-MOBILANPPASSNING
+MOBILANPASSNING GLOBAL
  */
 @media (min-width: 768px) {
     .aboutus {
