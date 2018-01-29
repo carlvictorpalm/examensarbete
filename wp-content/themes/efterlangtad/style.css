@@ -196,14 +196,25 @@ SALE BUTTONS
 }
 .text1 {
     background-color: #AFDFDB;
-    color: white;
-    font-size: 16px;
-    padding: 16px 32px;
+    color: black;
+    font-size: 25px;
+    width: 594px;
+    height: 121px;
+    padding: 45px 40px 40px 45px;
 }
 .text2 {
     background-color: #AFDFDB;
-    color: white;
+    color: black;
+    font-size: 25px;
+    width: 594px;
+    height: 121px;
+    padding: 30px 40px 40px 30px;
+}
+.text3 {
+    background-color: #AFDFDB;
+    color: black;
     font-size: 16px;
+    font-weight: bold;
     padding: 16px 32px;
 }
 .salediscount, .saleparents {

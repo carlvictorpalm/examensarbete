@@ -86,7 +86,7 @@
                    <a href="http://localhost/examensarbete/produkt/hasse/">
                         <img src=" <?php echo get_bloginfo('template_url') ?>/img/product.jpg" class="images" alt="">
                             <div class="middle">
-                                <div class="text1">Börja skapa din tavla</div>
+                                <div class="text3">Börja skapa din tavla</div>
                             </div>
                    </a>
                 </div>
@@ -96,7 +96,7 @@
                             <a href="http://localhost/examensarbete/produkt/hasse/">
                                 <img src="<?php echo get_bloginfo('template_url') ?>/img/product.jpg" class="images" alt="">
                                  <div class="middle">
-                                     <div class="text1">Börja skapa din tavla</div>
+                                     <div class="text3">Börja skapa din tavla</div>
                                  </div>
                             </a>
                     </div>
@@ -109,7 +109,7 @@
                     <a href="http://localhost/examensarbete/produkt/hasse/">
                         <img src="<?php echo get_bloginfo('template_url') ?>/img/product.jpg" class="images" alt="">
                             <div class="middle">
-                                <div class="text1">Börja skapa din tavla</div>
+                                <div class="text3">Börja skapa din tavla</div>
                             </div>
                     </a>
                 </div>
@@ -119,7 +119,7 @@
                     <a href="http://localhost/examensarbete/produkt/hasse/">
                         <img src="<?php echo get_bloginfo('template_url') ?>/img/product.jpg" class="images" alt="">
                              <div class="middle">
-                                <div class="text1">Börja skapa din tavla</div>
+                                <div class="text3">Börja skapa din tavla</div>
                              </div>
                     </a>
                 </div>
@@ -141,7 +141,7 @@
                 <a href="http://localhost/examensarbete/produkt/hasse/">
                 <img src="<?php echo get_bloginfo('template_url') ?>/img/rabatt.png" class="images" alt="">
                 <div class="middle">
-                    <div class="text1">När du gör ditt första köp får du alltid 10% rabatt</div>
+                    <div class="text1">Alltid 10% rabatt vid första köpet!</div>
                 </div>
                 </a>
             </div>
@@ -152,7 +152,7 @@
                 <a href="http://localhost/examensarbete/produkt/hasse/">
                 <img src="<?php echo get_bloginfo('template_url') ?>/img/parents.png" class="images" alt="">
                 <div class="middle">
-                    <div class="text2">Ge bort en underbar gåva till nyblivna mormor, morfar, farmor, och farfar</div>
+                    <div class="text2">Ge bort en underbar gåva till nyblivna mor och far föräldrar</div>
                 </div>
                 </a>
             </div>
