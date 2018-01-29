@@ -424,7 +424,7 @@ ABOUT US PAGE
     background-color: white;
 }
 /*
-KONTAKT PAGE
+CONTACT PAGE
 */
 .contactform {
     border: 5px solid antiquewhite;
@@ -447,7 +447,7 @@ KONTAKT PAGE
     background: #83d1d0;
 }
 /*
-ADD TO CART PAGE
+ADD TO CART
 */
 .single_add_to_cart_button {
     background-color: #80a980;
@@ -559,7 +559,7 @@ div.wpcf7 .ajax-loader {
     border:none;
 }
 /*
-POSITION PÅ PRISET FÖR SKAPA TAVLAN
+POSITION FOR PRICE
 */
 .summary.entry-summary {
     position: relative;
@@ -611,7 +611,7 @@ INSTAGRAM FEED ON FRONTPAGE
     color: black;
 }
 /*
-MOBILANPASSNING GLOBAL
+MOBILE
  */
 @media (min-width: 768px) {
     .aboutus {

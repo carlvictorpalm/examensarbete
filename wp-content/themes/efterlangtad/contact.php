@@ -1,7 +1,9 @@
 <?php /* Template Name: contact */
 
 get_header(); ?>
-
+    <!--
+	CONTACT PAGE
+	-->
 
     <div class="row">
         <div class="wrapper">
