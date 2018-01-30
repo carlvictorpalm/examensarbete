@@ -1,6 +1,9 @@
 $(function($)
 {
     $(document).ready(function ($) {
+        jQuery.extend(jQuery.validator.messages, {
+            required: "bajs.",
+        });
         $("#productimage").validate(
             {
                 rules:
@@ -38,5 +41,14 @@ $(function($)
             });
     });
 });
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+        x.className += " responsive";
+    } else {
+        x.className = "topnav";
+    }
+}
+
 
 //https://codepen.io/prasanthmj/pen/tDape

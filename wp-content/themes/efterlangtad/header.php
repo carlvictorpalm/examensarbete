@@ -34,6 +34,15 @@
               'walker'            => new wp_bootstrap_navwalker())
            );
           ?>
+            <div class="navtop" id="myTopnav">
+                <a href="#home">Hem</a>
+                <a href="http://localhost/examensarbete/product/hasse/">Skapa tavla</a>
+                <a href="http://localhost/examensarbete/illustrationer/">Illustration</a>
+                <a href="http://localhost/examensarbete/om-oss/">Om oss</a>
+                <a href="http://localhost/examensarbete/kontakt/">Kontakt</a>
+                <a href="http://localhost/examensarbete/cart/">Varukorg</a>
+                <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
+            </div>
         </nav>
       </div>
     </div>
