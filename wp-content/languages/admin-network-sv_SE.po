@@ -24,7 +24,7 @@ msgstr "Du är på väg att ta bort följande webbplatser:"
 msgid "User could not be added to this site."
 msgstr "Kunde inte lägga till användaren till denna webbplats."
 
-#: wp-admin/network/site-new.php:250
+#: wp-admin/network/site-new.php:252
 msgid "The username and a link to set the password will be mailed to this email address."
 msgstr "Användarnamnet och en länk för att ange lösenord kommer att skickas till denna e-postadress."
 
@@ -559,7 +559,7 @@ msgstr "Tillåtna filtyper. Separera olika typer med mellanslag."
 msgid "Set site attributes"
 msgstr "Ange webbplatsattribut"
 
-#: wp-admin/network/settings.php:418
+#: wp-admin/network/settings.php:420
 msgid "Enable menus"
 msgstr "Aktivera menyer"
 
@@ -1235,7 +1235,7 @@ msgstr "Uppladdningsinställningar"
 msgid "Operational Settings"
 msgstr "Driftsinställningar"
 
-#: wp-admin/network/settings.php:396
+#: wp-admin/network/settings.php:398
 msgid "Enable administration menus"
 msgstr "Aktivera administrationsmenyer"
 
@@ -1276,15 +1276,15 @@ msgstr "[%s] Ny webbplats skapad"
 msgid "Network Admin Email"
 msgstr "E-post för nätverksadmin"
 
-#: wp-admin/network/site-new.php:250
+#: wp-admin/network/site-new.php:252
 msgid "A new user will be created if the above email address is not in the database."
 msgstr "En ny användare kommer att skapas om ovan angiven e-postadress inte redan finns i databasen."
 
-#: wp-admin/network/site-new.php:246
+#: wp-admin/network/site-new.php:248
 msgid "Admin Email"
 msgstr "E-postadress admin"
 
-#: wp-admin/network/site-new.php:262
+#: wp-admin/network/site-new.php:264
 msgid "Add Site"
 msgstr "Lägg till webbplats"
 

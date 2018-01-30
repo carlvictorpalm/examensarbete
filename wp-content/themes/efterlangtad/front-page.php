@@ -49,7 +49,7 @@
 -->
 <section class="showcase">
     <div class="container">
-        <h1><?php echo get_theme_mod('showcase_heading', 'Välkommen till efterlängtad.se'); ?></h1>
+        <h1><?php echo get_theme_mod('showcase_heading'); ?></h1>
         <p><?php echo get_theme_mod('showcase_text'); ?></p>
     </div>
 </section>
