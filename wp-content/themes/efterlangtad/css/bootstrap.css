@@ -4269,6 +4269,12 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     border-radius: 0;
   }
 }
+.sticky-top {
+  position: sticky;
+  top: 0;
+  z-index: 1020;
+  background-color: white;
+}
 .navbar-fixed-top {
   top: 0;
   border-width: 0 0 1px;
