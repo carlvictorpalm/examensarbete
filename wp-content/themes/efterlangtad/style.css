@@ -316,10 +316,10 @@ JQUERY OUTPUT
 .birthnameoutput {
     position: absolute;
     font-family: ‘Dancing Script’, cursive;
-    font-size: 45px;
+    font-size: 30px;
     color: #036881;
     bottom: 0;
-    right: 50%;
+    right: 61%%;
     margin-bottom: -505px;
 }
 .birthlengthoutput {
