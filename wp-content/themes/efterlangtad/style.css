@@ -56,7 +56,17 @@ input {
 /*
  * Override Bootstrap's default container.
  */
-@media (min-width: 840px) {
+@media (min-width: 768px) {
+    .container {
+        width: 750px;
+    }
+}
+@media (min-width: 992px) {
+    .container {
+        width: 970px;
+    }
+}
+@media (min-width: 1200px) {
     .container {
         width: 1440px;
     }
@@ -444,6 +454,12 @@ CONTACT PAGE
     margin-bottom: 30px;
     color: white;
 }
+@media (max-width: 435px) {
+    .contactbutton input {
+        width: 100%;
+    }
+}
+
 .contactbutton input:hover {
     background: #83d1d0;
 }
@@ -557,7 +573,17 @@ div.wpcf7 .ajax-loader {
     width: 458px;
     height: 216px;
     background-color: antiquewhite;
-    border:none;
+    border: none;
+}
+@media (max-width: 375px) {
+    .wpcf7-textarea {
+        width: 280px !important;
+    }
+}
+@media (max-width: 435px) {
+    .wpcf7-textarea {
+        width: 381px;
+    }
 }
 /*
 POSITION FOR PRICE
@@ -725,7 +751,6 @@ HAMBURGARE MENU
 .topnav {
     overflow: hidden;
 }
-
 .topnav a {
     float: left;
     display: block;
@@ -734,13 +759,9 @@ HAMBURGARE MENU
     text-decoration: none;
     font-size: 17px;
 }
-
-
-
 .topnav .icon {
     display: none;
 }
-
 @media screen and (max-width: 600px) {
     .topnav a:not(:first-child) {display: none;}
     .topnav a.icon {
