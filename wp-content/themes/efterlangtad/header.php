@@ -34,7 +34,7 @@
               'walker'            => new wp_bootstrap_navwalker())
            );
           ?>
-            <div class="navtop" id="myTopnav">
+            <div class="topnav" id="myTopnav">
                 <a href="#home">Hem</a>
                 <a href="http://localhost/examensarbete/product/hasse/">Skapa tavla</a>
                 <a href="http://localhost/examensarbete/illustrationer/">Illustration</a>
