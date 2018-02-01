@@ -314,6 +314,7 @@ SKAPA TAVLAN PAGE
 }
 .quantity input {
     width: 10%;
+    margin-bottom: 20px;
 }
 .form {
     text-align: center;
@@ -322,6 +323,17 @@ SKAPA TAVLAN PAGE
 }
 .pro1, .pro2{
     padding:0px;
+}
+.singleproduct p.price{
+    position: absolute;
+    bottom: 126px;
+    left: 335px;
+}
+label.error {
+    display: block;
+    font-size: 15px;
+    font-style: italic;
+    padding: 5px;
 }
 /*
 JQUERY OUTPUT

@@ -60,7 +60,7 @@ if ( post_password_required() ) {
     ?>    </div>
 
 
-    <div class="summary entry-summary col-lg-6">
+    <div class="summary entry-summary singleproduct col-lg-6">
 
         <?php
         /**
