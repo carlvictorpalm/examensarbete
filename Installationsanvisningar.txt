@@ -1,0 +1,7 @@
+INSTALLATIONSANVISNINGAR
+ 1. Be om vår databas och lägg till den via phpMyadmin.
+ 2. Clona ner https://github.com/carlvictorpalm/examensarbete.git till din htdocs-mapp.
+ 3. Byt ut den sample-config.php till config.php.
+ 4. Lägg till din information så som databas/username/password.
+ 5. Gå till mappen i url. localhost/examensarbete.
+ 6. Njut utav mästerverket.
