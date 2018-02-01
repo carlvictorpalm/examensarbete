@@ -5,3 +5,11 @@ INSTALLATIONSANVISNINGAR
  4. Lägg till din information så som databas/username/password.
  5. Gå till mappen i url. localhost/examensarbete.
  6. Njut utav mästerverket.
+
+ Se till att dessa plugins är aktiva
+ Contact form 7
+ Sticky Menu (or Anything!) on Scroll
+ Woo Extra Product Options
+ WooCommerce
+ WooCommerce Services
+ WooCommerce Stripe Gateway
