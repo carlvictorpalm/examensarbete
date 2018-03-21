@@ -1,0 +1,128 @@
+2018-03-21T11:05:23+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /Applications/MAMP/htdocs/examensarbete/wp-content/themes/efterlangtad/front-page.php:182
+Stack trace:
+#0 /Applications/MAMP/htdocs/examensarbete/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/examensarbete/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/examensarbete/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+
+2018-03-21T11:05:27+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /Applications/MAMP/htdocs/examensarbete/wp-content/themes/efterlangtad/front-page.php:182
+Stack trace:
+#0 /Applications/MAMP/htdocs/examensarbete/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/examensarbete/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/examensarbete/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+
+2018-03-21T11:12:13+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /Applications/MAMP/htdocs/examensarbete/wp-content/themes/efterlangtad/front-page.php:184
+Stack trace:
+#0 /Applications/MAMP/htdocs/examensarbete/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/examensarbete/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/examensarbete/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+
+2018-03-21T11:12:16+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /Applications/MAMP/htdocs/examensarbete/wp-content/themes/efterlangtad/front-page.php:184
+Stack trace:
+#0 /Applications/MAMP/htdocs/examensarbete/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/examensarbete/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/examensarbete/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+
+2018-03-21T11:13:12+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /Applications/MAMP/htdocs/examensarbete/wp-content/themes/efterlangtad/front-page.php:184
+Stack trace:
+#0 /Applications/MAMP/htdocs/examensarbete/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/examensarbete/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/examensarbete/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+
+2018-03-21T11:13:15+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /Applications/MAMP/htdocs/examensarbete/wp-content/themes/efterlangtad/front-page.php:184
+Stack trace:
+#0 /Applications/MAMP/htdocs/examensarbete/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/examensarbete/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/examensarbete/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+
+2018-03-21T11:13:22+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /Applications/MAMP/htdocs/examensarbete/wp-content/themes/efterlangtad/front-page.php:184
+Stack trace:
+#0 /Applications/MAMP/htdocs/examensarbete/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/examensarbete/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/examensarbete/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+
+2018-03-21T11:13:26+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /Applications/MAMP/htdocs/examensarbete/wp-content/themes/efterlangtad/front-page.php:184
+Stack trace:
+#0 /Applications/MAMP/htdocs/examensarbete/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/examensarbete/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/examensarbete/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+
+2018-03-21T11:14:45+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /Applications/MAMP/htdocs/examensarbete/wp-content/themes/efterlangtad/front-page.php:189
+Stack trace:
+#0 /Applications/MAMP/htdocs/examensarbete/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/examensarbete/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/examensarbete/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+
+2018-03-21T11:14:49+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /Applications/MAMP/htdocs/examensarbete/wp-content/themes/efterlangtad/front-page.php:189
+Stack trace:
+#0 /Applications/MAMP/htdocs/examensarbete/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/examensarbete/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/examensarbete/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+
+2018-03-21T11:14:53+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /Applications/MAMP/htdocs/examensarbete/wp-content/themes/efterlangtad/front-page.php:189
+Stack trace:
+#0 /Applications/MAMP/htdocs/examensarbete/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/examensarbete/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/examensarbete/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+
+2018-03-21T11:14:56+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /Applications/MAMP/htdocs/examensarbete/wp-content/themes/efterlangtad/front-page.php:189
+Stack trace:
+#0 /Applications/MAMP/htdocs/examensarbete/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/examensarbete/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/examensarbete/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+
+2018-03-21T11:16:29+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /Applications/MAMP/htdocs/examensarbete/wp-content/themes/efterlangtad/front-page.php:189
+Stack trace:
+#0 /Applications/MAMP/htdocs/examensarbete/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/examensarbete/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/examensarbete/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+
+2018-03-21T11:16:32+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /Applications/MAMP/htdocs/examensarbete/wp-content/themes/efterlangtad/front-page.php:189
+Stack trace:
+#0 /Applications/MAMP/htdocs/examensarbete/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/examensarbete/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/examensarbete/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+
+2018-03-21T11:17:21+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /Applications/MAMP/htdocs/examensarbete/wp-content/themes/efterlangtad/front-page.php:241
+Stack trace:
+#0 /Applications/MAMP/htdocs/examensarbete/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/examensarbete/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/examensarbete/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+
+2018-03-21T11:17:24+00:00 CRITICAL Uncaught Error: Call to undefined function the_field() in /Applications/MAMP/htdocs/examensarbete/wp-content/themes/efterlangtad/front-page.php:241
+Stack trace:
+#0 /Applications/MAMP/htdocs/examensarbete/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/examensarbete/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/examensarbete/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+

@@ -770,7 +770,7 @@ STICKY MENU
 /*
 HAMBURGARE MENU
 */
-@media (min-width: 435px) {
+@media (min-width: 767px) {
     .topnav {
         display: none;
     }
@@ -789,7 +789,7 @@ HAMBURGARE MENU
 .topnav .icon {
     display: none;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
     .topnav a:not(:first-child) {display: none;}
     .topnav a.icon {
         float: right;
@@ -797,7 +797,7 @@ HAMBURGARE MENU
     }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 767px) {
     .topnav.responsive {position: relative;}
     .topnav.responsive .icon {
         position: absolute;
@@ -810,4 +810,30 @@ HAMBURGARE MENU
         text-align: left;
     }
 
+}
+/*--------------------------------------------------------------
+## Text Slider
+--------------------------------------------------------------*/
+.textauthor1, .textauthor2, .textauthor3 {
+    text-align: center;
+}
+.textauthor1 h5, .textauthor2 h5, .textauthor3 h5 {
+    font-size: 20px;
+    margin: 0;
+    padding-bottom: 10px;
+}
+.textauthor1 p, .textauthor2 p, .textauthor3 p {
+    font-size: 20px;
+    margin: 0;
+    padding-top: 10px;
+}
+.section-15 {
+    background-color: #f0ca6c;
+    padding: 12rem 0 12rem 0;
+}
+@media (min-width: 768px) {
+    .section-15 {
+        clip-path: polygon(0 25%, 100% 0, 100% 75%, 0% 100%);
+        margin-bottom: 40px;
+    }
 }
