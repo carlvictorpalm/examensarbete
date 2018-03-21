@@ -2,91 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2753653f-6d68-4dbd-ba82-40fda0370036" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Installationsanvisningar.txt" afterPath="$PROJECT_DIR$/Installationsanvisningar.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/admin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/admin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/css/styles.css" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/edit-contact-form.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/edit-contact-form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/class-contact-forms-list-table.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/class-contact-forms-list-table.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/editor.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/editor.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/welcome-panel.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/includes/welcome-panel.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/js/scripts.js" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/js/scripts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/js/tag-generator.js" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/admin/js/tag-generator.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/config-validator.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/config-validator.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/contact-form.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/contact-form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/css/styles.css" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/form-tags-manager.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/form-tags-manager.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/functions.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/functions.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/scripts.js" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/scripts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/mail.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/mail.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/rest-api.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/rest-api.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/submission.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/submission.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/license.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/license.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/acceptance.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/acceptance.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/akismet.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/akismet.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/count.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/count.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/file.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/file.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/flamingo.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/flamingo.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/quiz.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/quiz.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/really-simple-captcha.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/modules/really-simple-captcha.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/settings.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/settings.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/wp-contact-form-7.php" afterPath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/wp-contact-form-7.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/assets/css/thwepof-field-editor-admin.css" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/assets/css/thwepof-field-editor-admin.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/assets/css/thwepof-field-editor-frontend.css" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/assets/css/thwepof-field-editor-frontend.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/classes/class-wepof-settings-page.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/classes/class-wepof-settings-page.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/classes/class-wepof-settings.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/classes/class-wepof-settings.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/classes/fe/class-wepof-product-options-frontend.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/classes/fe/class-wepof-product-options-frontend.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/classes/fe/class-wepof-product-options-settings.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/classes/fe/class-wepof-product-options-settings.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/classes/fe/class-wepof-product-options-utils.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/classes/fe/class-wepof-product-options-utils.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/classes/fe/class-wepof-utils-field.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/classes/fe/class-wepof-utils-field.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/classes/fe/fields/class-wepof-field-inputtext.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/classes/fe/fields/class-wepof-field-inputtext.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/classes/fe/fields/class-wepof-field-select.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/classes/fe/fields/class-wepof-field-select.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/woo-extra-product-options.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woo-extra-product-options/woo-extra-product-options.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/css/stripe-paymentfonts.css" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/css/stripe-paymentfonts.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe-admin.js" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe-admin.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe-admin.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe-admin.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe-payment-request.js" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe-payment-request.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe-payment-request.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe-payment-request.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe.js" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe.min.js" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/assets/js/stripe.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/changelog.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/changelog.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/abstracts/abstract-wc-stripe-payment-gateway.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/abstracts/abstract-wc-stripe-payment-gateway.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-settings.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/admin/stripe-settings.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-gateway-stripe.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-gateway-stripe.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-api.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-api.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-customer.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-customer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-helper.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-helper.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-order-handler.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-order-handler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-webhook-handler.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/class-wc-stripe-webhook-handler.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/compat/class-wc-stripe-compat.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/compat/class-wc-stripe-compat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/compat/class-wc-stripe-sepa-compat.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/compat/class-wc-stripe-sepa-compat.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-alipay.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-alipay.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-bancontact.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-bancontact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-bitcoin.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-bitcoin.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-giropay.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-giropay.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-ideal.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-ideal.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-p24.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-p24.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-sepa.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-sepa.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-sofort.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-gateway-stripe-sofort.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-stripe-payment-request.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/includes/payment-methods/class-wc-stripe-payment-request.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/woocommerce-gateway-stripe.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-gateway-stripe/woocommerce-gateway-stripe.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/classes/class-wc-connect-compatibility-wc26.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/classes/class-wc-connect-compatibility-wc26.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/classes/class-wc-connect-compatibility-wc30.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/classes/class-wc-connect-compatibility-wc30.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/classes/class-wc-connect-compatibility.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/classes/class-wc-connect-compatibility.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/classes/class-wc-connect-nux.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/classes/class-wc-connect-nux.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/classes/class-wc-connect-options.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/classes/class-wc-connect-options.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/dist/woocommerce-services-admin-pointers.js" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/dist/woocommerce-services-admin-pointers.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/dist/woocommerce-services-banner.js" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/dist/woocommerce-services-banner.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/dist/woocommerce-services.css" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/dist/woocommerce-services.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/dist/woocommerce-services.js" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/dist/woocommerce-services.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/readme.txt" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/readme.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/woocommerce-services.php" afterPath="$PROJECT_DIR$/wp-content/plugins/woocommerce-services/woocommerce-services.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/about.php" afterPath="$PROJECT_DIR$/wp-content/themes/efterlangtad/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -104,7 +20,6 @@
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="examensarbete" />
   </component>
@@ -113,28 +28,18 @@
       <file leaf-file-name="Installationsanvisningar.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Installationsanvisningar.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="150">
+              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="validation.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/js/validation.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="17" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="239" column="0" lean-forward="false" selection-start-line="239" selection-start-column="0" selection-end-line="239" selection-end-column="0" />
+            <state relative-caret-position="3660">
+              <caret line="244" column="0" lean-forward="false" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -150,11 +55,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="front-page.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="illustration.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/illustration.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="14" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="16" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="front-page.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2505">
-              <caret line="167" column="25" lean-forward="false" selection-start-line="167" selection-start-column="25" selection-end-line="167" selection-end-column="25" />
+            <state relative-caret-position="715">
+              <caret line="220" column="0" lean-forward="true" selection-start-line="220" selection-start-column="0" selection-end-line="220" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -264,8 +179,8 @@
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/woocommerce/content-single-product.php" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-formatting-functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/about.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php" />
       </list>
     </option>
   </component>
@@ -278,8 +193,8 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="820" />
+    <option name="width" value="2391" />
+    <option name="height" value="1205" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -297,76 +212,37 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examensarbete" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examensarbete" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examensarbete" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examensarbete" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examensarbete" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examensarbete" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examensarbete" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="examensarbete" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wp-content" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="themes" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="efterlangtad" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
+          <expand>
+            <path>
+              <item name="examensarbete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examensarbete" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="examensarbete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examensarbete" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="examensarbete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examensarbete" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="examensarbete" type="b2602c69:ProjectViewProjectNode" />
+              <item name="examensarbete" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="efterlangtad" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -436,15 +312,6 @@
       <PhpTestRunnerSettings />
       <method />
     </configuration>
-    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
-      <node-options />
-      <gulpfile />
-      <tasks />
-      <arguments />
-      <envs />
-      <method />
-    </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
       <command value="run" />
       <scripts />
@@ -464,6 +331,14 @@
       <test-directory />
       <recursive>false</recursive>
       <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
@@ -509,11 +384,12 @@
       <workItem from="1517474448900" duration="2581000" />
       <workItem from="1521184766303" duration="1488000" />
       <workItem from="1521622320302" duration="88000" />
+      <workItem from="1521625204712" duration="347000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="131289000" />
+    <option name="totallyTimeSpent" value="131636000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -525,16 +401,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="820" extended-state="6" />
+    <frame x="0" y="23" width="2391" height="1205" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.4945055" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15014638" sideWeight="0.4945055" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965517" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991952" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25250357" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33241758" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21888791" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2539342" sideWeight="0.50549453" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -547,7 +425,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="processedProjectFiles" value="true" />
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -566,6 +444,46 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/js/validation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="17" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Installationsanvisningar.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="36" lean-forward="false" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2505">
+          <caret line="167" column="23" lean-forward="true" selection-start-line="167" selection-start-column="23" selection-end-line="167" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3585">
+          <caret line="239" column="0" lean-forward="false" selection-start-line="239" selection-start-column="0" selection-end-line="239" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Installationsanvisningar.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -718,7 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
           <caret line="40" column="0" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -726,7 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -748,22 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Installationsanvisningar.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/js/validation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="17" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -795,6 +695,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/js/validation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="17" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Installationsanvisningar.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3660">
+          <caret line="244" column="0" lean-forward="false" selection-start-line="244" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/about.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -803,18 +727,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/illustration.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2505">
-          <caret line="167" column="25" lean-forward="false" selection-start-line="167" selection-start-column="25" selection-end-line="167" selection-end-column="25" />
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="16" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="239" column="0" lean-forward="false" selection-start-line="239" selection-start-column="0" selection-end-line="239" selection-end-column="0" />
+        <state relative-caret-position="715">
+          <caret line="220" column="0" lean-forward="true" selection-start-line="220" selection-start-column="0" selection-end-line="220" selection-end-column="0" />
           <folding />
         </state>
       </provider>
