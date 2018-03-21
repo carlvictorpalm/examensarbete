@@ -253,7 +253,7 @@ NEWSLETTER SIGNUP FORM
 */
 .newsletter {
     white-space: pre-line;
-    background: #AFDFDB;
+    background: #e2e2e2;
     margin-bottom: 20px;
     display: inline-block;
 }
@@ -265,7 +265,7 @@ NEWSLETTER SIGNUP FORM
     z-index: 2;
 }
 .newsletter .single h1 {
-    color: white;
+    color: #243c4f;
     text-transform: uppercase;
 }
 .newsletter .single .form-control {
@@ -291,7 +291,7 @@ NEWSLETTER SIGNUP FORM
     border-style: hidden;
 }
 .newsletter p {
-    color: #fff;
+    color: #243c4f;
     font-size: 20px;
 }
 /*
@@ -828,8 +828,8 @@ HAMBURGARE MENU
     padding-top: 10px;
 }
 .section-15 {
-    background-color: #f0ca6c;
-    padding: 12rem 0 12rem 0;
+    background-color: #e2e2e2;
+    padding: 20rem 0 20rem 0;
 }
 @media (min-width: 768px) {
     .section-15 {

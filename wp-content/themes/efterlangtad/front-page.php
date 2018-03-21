@@ -172,10 +172,44 @@
                     </div>
                 </div>
             </div>
+    <div class="inspo">
+        <a href="http://localhost/examensarbete/illustrationer/">
+            <img src="<?php echo get_bloginfo('template_url') ?>/img/inspo.png" alt="">
+        </a>
+    </div>
+
         </div>
     </div>
 </div>
 
+<div class="section-15">
+    <div class="container">
+        <div class="textauthor1 mx-auto col-lg-4">
+        <i class="fa fa-quote-left" aria-hidden="true"></i>
+            <div class="talk-1">
+                <p>Underbara illustrationer att fylla bebisrummet med</p>
+            </div>
+        <i class="fa fa-quote-right" aria-hidden="true"></i>
+            <br> <h5>Familjen Karlsson</h5>
+        </div>
+        <div class="textauthor2 mx-auto col-lg-4">
+            <i class="fa fa-quote-left" aria-hidden="true"></i>
+            <div class="talk-2">
+                <p>Äntligen ett företag som har trendiga och designrika posters. Det lilla extra över spjälsängen som gör hela rummet. Vi är så nöjda!</p>
+            </div>
+            <i class="fa fa-quote-right" aria-hidden="true"></i>
+            <br> <h5>Aida, Josef och lillan Farreh</h5>
+        </div>
+        <div class="textauthor3 mx-auto col-lg-4">
+            <i class="fa fa-quote-left" aria-hidden="true"></i>
+            <div class="talk-3">
+                <p>Trodde inte det skulle bli så bra tryck, postern är verkligen som en riktig handmålning. Snabb frakt och underbar service.</p>
+            </div>
+            <i class="fa fa-quote-right" aria-hidden="true"></i>
+            <br> <h5>Morfar Leif och Mormor Lena.</h5>
+        </div>
+    </div>
+</div>
 
 <!--
   INSPIRATION SECTION
@@ -184,16 +218,9 @@
     <div class="row">
         <div class="wrapper">
 
-            <div class="inspo">
-                <a href="http://localhost/examensarbete/illustrationer/">
-                    <img src="<?php echo get_bloginfo('template_url') ?>/img/inspo.png" alt="">
-                </a>
-            </div>
             <!--
            INSTAGRAM SECTION
        -->
-
-
             <?php if (is_front_page()) { ?>
                 <div class="instagram"><p>Instagram ,</p></div>
 
@@ -227,51 +254,6 @@
         </div>
     </div>
 </div>
-<!--
-START COSTUMER TALK
--->
-<div class="section-15">
-    <div class="container">
-        <div id="carouselExampleControls111" class="carousel slide" data-ride="carousel">
-            <div class="carousel-inner">
-                <div class="carousel-item active">
-                    <div class="textauthor1 mx-auto col-lg-6">
-                        <i class="fa fa-quote-left" aria-hidden="true"></i>
 
-                        <p><?php the_field('text_1'); ?></p>
-                        <i class="fa fa-quote-right" aria-hidden="true"></i>
-                        <h5><?php the_field('author_1'); ?></h5>
-
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="textauthor2 mx-auto col-lg-6">
-                        <i class="fa fa-quote-left" aria-hidden="true"></i>
-
-                        <p><?php the_field('text_2'); ?></p>
-                        <i class="fa fa-quote-right" aria-hidden="true"></i>
-                        <h5><?php the_field('author_2'); ?></h5>
-
-
-                    </div>
-                </div>
-                <div class="carousel-item">
-                    <div class="textauthor3 mx-auto col-lg-6">
-                        <i class="fa fa-quote-left" aria-hidden="true"></i>
-
-                        <p><?php the_field('text_3'); ?></p>
-                        <i class="fa fa-quote-left" aria-hidden="true"></i>
-                        <h5><?php the_field('author_3'); ?></h5>
-
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!--
-/END COSTUMER TALK
--->
 
 <?php get_footer(); ?>
