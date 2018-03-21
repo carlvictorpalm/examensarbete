@@ -4,7 +4,7 @@ Donate link: https://themehigh.com/
 Tags: woocommerce extra product options, product field editor, product field customizer, product form editor, product form customizer, product, WooCommerce product, product form designer, custom, custom product fields, custom product option, custom options, customize product, customize variation, extra options, extra product options, form editor, price fields, prices, product, product choices, product price, woocommerce
 Requires at least: 4.0
 Tested up to: 4.9
-Stable tag: 1.2.5
+Stable tag: 1.2.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -92,6 +92,9 @@ Yes, but in premium version.
 8. Newly added option
 
 == Changelog ==
+= 1.2.6 =
+* WooCommerce tested up to version updated.
+
 = 1.2.5 =
 * Fix for the parse error with older version of php(older than 5.3).
 

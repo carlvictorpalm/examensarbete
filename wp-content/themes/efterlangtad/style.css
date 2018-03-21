@@ -158,14 +158,13 @@ PRODUCT GALLERY FRONT PAGE
     width: 100%;
 }
 /*
-SALE BUTTONS
+SALE BUTTONS AREA
 */
 .sale {
     padding: 30px 0;
     background: #FBDCCE;
     align-items: center;
     margin-top: 5px;
-    margin-bottom: 30px;
 }
 .salediscount {
     opacity: 1;
@@ -233,6 +232,12 @@ SALE BUTTONS
 }
 .salediscount img, .saleparents img {
     width: 100%;
+}
+.textsection {
+    color: white;
+    background: gray;
+    padding: 10px;
+
 }
 /*
 INSPIRATION IMAGE BAR BUTTON
@@ -466,12 +471,6 @@ CONTACT PAGE
     margin-bottom: 30px;
     color: white;
 }
-@media (max-width: 435px) {
-    .contactbutton input {
-        width: 100%;
-    }
-}
-
 .contactbutton input:hover {
     background: #83d1d0;
 }
@@ -531,6 +530,9 @@ p.thwepo-extra-options.form-row.form-row-wide {
 .produktbild {
     clear: both;
 }
+#birth_date, #birth_length, #birth_weight, #birth_name {
+    width: 60%;
+}
 /*
 WOOCOMMERCE PLUGIN COSTUM
 */
@@ -587,16 +589,7 @@ div.wpcf7 .ajax-loader {
     background-color: antiquewhite;
     border: none;
 }
-@media (max-width: 375px) {
-    .wpcf7-textarea {
-        width: 280px !important;
-    }
-}
-@media (max-width: 435px) {
-    .wpcf7-textarea {
-        width: 381px;
-    }
-}
+
 /*
 POSITION FOR PRICE
 */
@@ -744,6 +737,11 @@ FORM
         flex-basis:calc(100%/2);
     }
 }
+@media (max-width: 435px) {
+    .contactbutton input {
+        width: 100%;
+    }
+}
 /*
 WOOCOMMERCE
 */
@@ -752,6 +750,23 @@ WOOCOMMERCE
         padding: 30px;
     }
 }
+@media (max-width: 375px) {
+    .wpcf7-textarea {
+        width: 280px !important;
+    }
+}
+@media (max-width: 435px) {
+    .wpcf7-textarea {
+        width: 381px;
+    }
+}
+/*
+STICKY MENU
+*/
+.blog-masthead {
+    background: whitesmoke;
+}
+
 /*
 HAMBURGARE MENU
 */

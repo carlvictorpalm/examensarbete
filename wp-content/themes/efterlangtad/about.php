@@ -18,7 +18,7 @@ ABOUT US PAGE
         <div class="aboutuspage col-lg-8 ingress">
             <h3>Hey!</h3>
             <h4>Vi är Victor Palm och Kim Dahlberg,
-                Två klasskompisar som beslutade sig för att göra sitt examensarbet tillsammans.
+                två klasskompisar som beslutade sig för att göra sitt examensarbet tillsammans.
                 Victor och Kim studerar sista terminen på en webbutvecklingsutbildning med fokus på e-handel.
                 <i>"Trendigt, fräscht och framtiden"</i> - Säger omvärlden.</h4>
 

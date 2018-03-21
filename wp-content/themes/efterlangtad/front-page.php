@@ -163,8 +163,17 @@
         </div>
     </div>
     <!--
+     TEXT SECTION
+    -->
+    <div class="col-lg-12">
+    <div class="textsection">
+        <p>* Är du ny kund hos oss, glöm inte att använda din rabatt. Kod: NYKUND   </p>
+    </div>
+    </div>
+
+    <!--
 	  INSPIRATION SECTION
-   -->
+    -->
     <div class="inspo">
         <a href="http://localhost/examensarbete/illustrationer/">
         <img src="<?php echo get_bloginfo('template_url') ?>/img/inspo.png" alt="">

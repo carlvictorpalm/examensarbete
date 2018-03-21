@@ -43,7 +43,7 @@
 	padding-right: 2em;
 }
 .thwepo-extra-options input, .thwepo-extra-options select{
-	width: 65%;
+	width: 100%;
 }
 .thwepo-extra-options.left input, .thwepo-extra-options.left select{
 	width: auto !important;
