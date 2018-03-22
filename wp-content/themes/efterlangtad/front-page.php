@@ -63,6 +63,25 @@
         <p><?php echo get_theme_mod('showcase_text'); ?></p>
     </div>
 </section>
+<?php
+    $image = get_field( 'bg_img' );
+    if ( ! empty( $image ) ): ?>
+        <div class="front-header"
+                            style="background-position: center; background-repeat: no-repeat; background-size: cover; background-image: url('<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>')">
+        <div class="ingresshome col-xs-5 col-md-6 col-lg-5">
+            <h2><?php the_field('img_title'); ?></h2>
+            <p><?php the_field('img_text'); ?></p>
+            <div class="centerbutton">
+                <a href="index.php?page_id=6"><button class="img_btn_1">Ansök nu</button></a>
+                <a href="index.php?page_id=5"><button class="img_btn_2">Läs Mer</button></a>
+
+            </div>
+        </div>
+
+    </div>
+    <?php endif; ?>
+<?php endif; ?>
+
 <div class="container">
 
     <div class="row">
@@ -105,7 +124,7 @@
                                 <img src=" <?php echo get_bloginfo('template_url') ?>/img/product.jpg" class="images"
                                      alt="">
                                 <div class="middle">
-                                    <div class="text3">Börja skapa din tavla</div>
+                                    <div class="text3">Skapa din tavla</div>
                                 </div>
                             </a>
                         </div>
@@ -116,7 +135,7 @@
                                 <img src="<?php echo get_bloginfo('template_url') ?>/img/product.jpg" class="images"
                                      alt="">
                                 <div class="middle">
-                                    <div class="text3">Börja skapa din tavla</div>
+                                    <div class="text3">Skapa din tavla</div>
                                 </div>
                             </a>
                         </div>
@@ -129,7 +148,7 @@
                                 <img src="<?php echo get_bloginfo('template_url') ?>/img/product.jpg" class="images"
                                      alt="">
                                 <div class="middle">
-                                    <div class="text3">Börja skapa din tavla</div>
+                                    <div class="text3">Skapa din tavla</div>
                                 </div>
                             </a>
                         </div>
@@ -140,7 +159,7 @@
                                 <img src="<?php echo get_bloginfo('template_url') ?>/img/product.jpg" class="images"
                                      alt="">
                                 <div class="middle">
-                                    <div class="text3">Börja skapa din tavla</div>
+                                    <div class="text3">Skapa din tavla</div>
                                 </div>
                             </a>
                         </div>
