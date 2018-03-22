@@ -25,6 +25,7 @@
         </style>
     </head>
 <body>
+
 <div class="blog-masthead">
     <div class="container">
         <nav class="blog-nav">
@@ -54,11 +55,9 @@
     <a href="http://localhost/examensarbete/cart/">Varukorg</a>
     <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
-
-<div id="content" class="site-content">
 <?php if (is_front_page())
-        $image = get_field( 'bg_bild' );
-    if ( ! empty( $image ) ): ?>
+    $image = get_field( 'bg_img' );
+if ( ! empty( $image ) ): ?>
     <div class="front-header"
          style="background-position: center; background-repeat: no-repeat; background-size: cover; background-image: url('<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>')">
         <div class="ingresshome col-xs-5 col-md-6 col-lg-5">
@@ -70,9 +69,8 @@
             </div>
         </div>
     </div>
-</div>
-<?php endif; ?>
 
+<?php endif; ?>
 
 <div class="container">
 
