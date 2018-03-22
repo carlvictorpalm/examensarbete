@@ -206,3 +206,19 @@ Stack trace:
 #3 {main}
   thrown
 
+2018-03-22T09:14:53+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/examensarbete/wp-content/themes/efterlangtad/front-page.php:67
+Stack trace:
+#0 /Applications/MAMP/htdocs/examensarbete/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/examensarbete/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/examensarbete/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+
+2018-03-22T09:14:56+00:00 CRITICAL Uncaught Error: Call to undefined function get_field() in /Applications/MAMP/htdocs/examensarbete/wp-content/themes/efterlangtad/front-page.php:67
+Stack trace:
+#0 /Applications/MAMP/htdocs/examensarbete/wp-includes/template-loader.php(74): include()
+#1 /Applications/MAMP/htdocs/examensarbete/wp-blog-header.php(19): require_once('/Applications/M...')
+#2 /Applications/MAMP/htdocs/examensarbete/index.php(17): require('/Applications/M...')
+#3 {main}
+  thrown
+

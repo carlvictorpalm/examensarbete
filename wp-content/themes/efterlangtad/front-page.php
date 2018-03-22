@@ -47,40 +47,32 @@
 </div>
 <div class="topnav sticky-top" id="myTopnav">
     <a href="#home">Hem</a>
-    <a href="http://localhost/examensarbete/product/hasse/">Skapa tavla</a>
+    <a href="http://localhost/examensarbete/produkt/personlig-fodelsetavla/">Skapa tavla</a>
     <a href="http://localhost/examensarbete/illustrationer/">Illustration</a>
     <a href="http://localhost/examensarbete/om-oss/">Om oss</a>
     <a href="http://localhost/examensarbete/kontakt/">Kontakt</a>
     <a href="http://localhost/examensarbete/cart/">Varukorg</a>
     <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
-<!--
-    HEADER IMAGE
--->
-<section class="showcase">
-    <div class="container">
-        <h1><?php echo get_theme_mod('showcase_heading'); ?></h1>
-        <p><?php echo get_theme_mod('showcase_text'); ?></p>
-    </div>
-</section>
-<?php
-    $image = get_field( 'bg_img' );
+
+<div id="content" class="site-content">
+<?php if (is_front_page())
+        $image = get_field( 'bg_bild' );
     if ( ! empty( $image ) ): ?>
-        <div class="front-header"
-                            style="background-position: center; background-repeat: no-repeat; background-size: cover; background-image: url('<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>')">
+    <div class="front-header"
+         style="background-position: center; background-repeat: no-repeat; background-size: cover; background-image: url('<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>')">
         <div class="ingresshome col-xs-5 col-md-6 col-lg-5">
-            <h2><?php the_field('img_title'); ?></h2>
-            <p><?php the_field('img_text'); ?></p>
+            <h2><?php the_field('bg_titel'); ?></h2>
+            <p><?php the_field('bg_text'); ?></p>
             <div class="centerbutton">
                 <a href="index.php?page_id=6"><button class="img_btn_1">Ansök nu</button></a>
                 <a href="index.php?page_id=5"><button class="img_btn_2">Läs Mer</button></a>
-
             </div>
         </div>
-
     </div>
-    <?php endif; ?>
+</div>
 <?php endif; ?>
+
 
 <div class="container">
 
