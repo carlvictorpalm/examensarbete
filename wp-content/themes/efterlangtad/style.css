@@ -836,3 +836,37 @@ HAMBURGARE MENU
         margin-bottom: 40px;
     }
 }
+/*
+  Header buttons/text
+*/
+.ingresshome p {
+    color: black;
+}
+
+.ingresshome h2 {
+    font-size: 40px;
+    color: black;
+    padding: 0px;
+    margin: 0px;
+}
+
+.img_btn_1, .img_btn_2 {
+    background-color: transparent;
+    padding: 10px 50px;
+    margin-top: 25px;
+    color: black;
+    transition: 400ms ease-in
+}
+
+.img_btn_1:hover, .img_btn_2:hover {
+    background-color: #eab42e;
+    border-color: #eab42e;
+    border-radius: 20px;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+    transition: 400ms ease-out
+}
+
+.img_btn_1 a, .img_btn_2 a {
+    color: white;
+    text-decoration: none;
+}
