@@ -12,9 +12,11 @@ body {
     color: #555;
     background-color: #f9f9f9;
 }
+
 th {
     font-size: 20px;
 }
+
 h1, .h1,
 h2, .h2,
 h3, .h3,
@@ -26,10 +28,12 @@ h6, .h6 {
     font-weight: normal;
     color: #333;
 }
+
 .title {
     text-align: center;
 }
-.title h1{
+
+.title h1 {
     margin: 40px 30px;
     border-bottom: 4px solid black;
     display: inline-block;
@@ -39,12 +43,14 @@ h6, .h6 {
     padding-bottom: .5em;
     text-transform: uppercase;
 }
+
 .title h3 {
     font-size: 23px;
     font-family: 'Shadows Into Light Two', cursive;
     line-height: 35px;
     margin-bottom: 45px;
 }
+
 input {
     width: 60%;
     padding: 20px;
@@ -53,6 +59,7 @@ input {
     border-style: hidden;
     outline: 0;
 }
+
 /*
  * Override Bootstrap's default container.
  */
@@ -61,23 +68,27 @@ input {
         width: 750px;
     }
 }
+
 @media (min-width: 992px) {
     .container {
         width: 970px;
     }
 }
+
 @media (min-width: 1200px) {
     .container {
         width: 1440px;
     }
 }
+
 /*
  * Masthead for nav
  */
 .blog-masthead {
     background-color: #f9f9f9;
-    box-shadow: inset 0 -2px 5px rgba(0,0,0,.1);
+    box-shadow: inset 0 -2px 5px rgba(0, 0, 0, .1);
 }
+
 /* Nav links */
 .blog-nav-item {
     position: relative;
@@ -86,11 +97,13 @@ input {
     font-weight: 500;
     color: #cdddeb;
 }
+
 .blog-nav-item:hover,
 .blog-nav-item:focus {
     color: #fff;
     text-decoration: none;
 }
+
 /* Active state gets a caret at the bottom */
 
 .blog-nav .active:after {
@@ -106,43 +119,51 @@ input {
     border-bottom: 5px solid;
     border-left: 5px solid transparent;
 }
+
 /* Pagination */
 .pager {
     margin-bottom: 60px;
     text-align: left;
 }
+
 .pager > li > a {
     width: 140px;
     padding: 10px 20px;
     text-align: center;
     border-radius: 30px;
 }
+
 /*
 FRONT PAGE CSS
 */
-.showcase{
-    height:600px;
+.showcase {
+    height: 600px;
     text-align: center;
-    border-bottom:#ccc 1px solid;
-    color:#fff;
+    border-bottom: #ccc 1px solid;
+    color: #fff;
 }
-.showcase h1{
+
+.showcase h1 {
     font-size: 55px;
-    padding-bottom:20px;
+    padding-bottom: 20px;
     color: #AFDFDB;
 }
+
 .showcase p {
-    font-size:20px;
-    margin-bottom:50px;
+    font-size: 20px;
+    margin-bottom: 50px;
 }
+
 .trustbar img {
     width: 100%;
 }
-@media (max-width: 420px)  {
+
+@media (max-width: 420px) {
     .trustbar {
         display: none;
     }
 }
+
 /*
 PRODUCT GALLERY FRONT PAGE
 */
@@ -150,13 +171,16 @@ PRODUCT GALLERY FRONT PAGE
     padding: 5px 0;
     margin: 5px 0;
 }
+
 .productid1, .productid2 {
     padding: 0px;
 }
-.productid1 img, .productid2 img  {
+
+.productid1 img, .productid2 img {
     padding: 10px 0 10px 20px;
     width: 100%;
 }
+
 /*
 SALE BUTTONS AREA
 */
@@ -165,6 +189,7 @@ SALE BUTTONS AREA
     background: #FBDCCE;
     align-items: center;
 }
+
 .salediscount {
     opacity: 1;
     display: block;
@@ -173,6 +198,7 @@ SALE BUTTONS AREA
     transition: .5s ease;
     backface-visibility: hidden;
 }
+
 .saleparents {
     opacity: 1;
     display: block;
@@ -181,6 +207,7 @@ SALE BUTTONS AREA
     transition: .5s ease;
     backface-visibility: hidden;
 }
+
 .middle {
     transition: .5s ease;
     opacity: 0;
@@ -191,18 +218,23 @@ SALE BUTTONS AREA
     -ms-transform: translate(-50%, -50%);
     text-align: center;
 }
+
 .salediscount:hover .images {
     opacity: 0.3;
 }
+
 .salediscount:hover .middle {
     opacity: 1;
 }
+
 .saleparents:hover .images {
     opacity: 0.3;
 }
+
 .saleparents:hover .middle {
     opacity: 1;
 }
+
 .text1 {
     background-color: #AFDFDB;
     color: black;
@@ -211,6 +243,7 @@ SALE BUTTONS AREA
     height: 121px;
     padding: 45px 40px 40px 45px;
 }
+
 .text2 {
     background-color: #AFDFDB;
     color: black;
@@ -219,6 +252,7 @@ SALE BUTTONS AREA
     height: 121px;
     padding: 30px 40px 40px 30px;
 }
+
 .text3 {
     background-color: #AFDFDB;
     color: black;
@@ -226,27 +260,33 @@ SALE BUTTONS AREA
     font-weight: bold;
     padding: 16px 32px;
 }
+
 .salediscount, .saleparents {
     text-align: center;
 }
+
 .salediscount img, .saleparents img {
     width: 100%;
 }
+
 .textsection {
     color: white;
     background: gray;
     padding: 10px;
 
 }
+
 /*
 INSPIRATION IMAGE BAR BUTTON
 */
 .inspo {
     margin-bottom: 30px;
 }
-.inspo img{
+
+.inspo img {
     width: 100%;
 }
+
 /*
 NEWSLETTER SIGNUP FORM
 */
@@ -256,6 +296,7 @@ NEWSLETTER SIGNUP FORM
     margin-bottom: 20px;
     display: inline-block;
 }
+
 .newsletter .single {
     max-width: 700px;
     margin: 0 auto;
@@ -263,10 +304,12 @@ NEWSLETTER SIGNUP FORM
     position: relative;
     z-index: 2;
 }
+
 .newsletter .single h1 {
     color: #243c4f;
     text-transform: uppercase;
 }
+
 .newsletter .single .form-control {
     font-size: 20px;
     height: 50px;
@@ -277,10 +320,12 @@ NEWSLETTER SIGNUP FORM
     border-radius: 20px 0px 0px 20px;
     border-style: hidden;
 }
+
 .newsletter .single .form-control:focus {
     box-shadow: none;
     border-color: #243c4f;
 }
+
 .newsletter .single .btn {
     font-size: 18px;
     min-height: 50px;
@@ -289,10 +334,12 @@ NEWSLETTER SIGNUP FORM
     color: #fff;
     border-style: hidden;
 }
+
 .newsletter p {
     color: #243c4f;
     font-size: 20px;
 }
+
 /*
  * FOOTER
  */
@@ -302,42 +349,51 @@ NEWSLETTER SIGNUP FORM
     background-color: #ECEAE5;
     border-top: 1px solid #e5e5e5;
 }
+
 .links {
     text-align: center;
     background-color: #ECEAE5;
 }
+
 .copy {
     margin-top: 20px;
 }
+
 /*
 SKAPA TAVLAN PAGE
 */
 .woocommerce-product-gallery__image img {
     width: 100%;
 }
+
 .quantity input {
     width: 10%;
     margin-bottom: 20px;
 }
+
 .form {
     text-align: center;
     background-color: #ECEAE5;
     border-radius: 20px 0 0 20px;
 }
-.pro1, .pro2{
-    padding:0px;
+
+.pro1, .pro2 {
+    padding: 0px;
 }
-.singleproduct p.price{
+
+.singleproduct p.price {
     position: absolute;
     bottom: 126px;
     left: 335px;
 }
+
 label.error {
     display: block;
     font-size: 15px;
     font-style: italic;
     padding: 5px;
 }
+
 /*
 JQUERY OUTPUT
 */
@@ -350,51 +406,59 @@ JQUERY OUTPUT
     right: 33%;
     margin-bottom: -505px;
 }
+
 .birthlengthoutput {
     position: absolute;
     bottom: 0;
     left: 35%;
     margin-bottom: -530px;
 }
+
 .birthweightoutput {
     position: absolute;
     bottom: 0%;
     right: 22%;
     margin-bottom: -530px;
 }
+
 .birthdayoutput {
     position: absolute;
     bottom: 0;
     left: 45%;
     margin-bottom: -530px;
 }
+
 .birthhours {
     position: absolute;
     bottom: 0;
     right: 39%;
     margin-bottom: -530px;
 }
+
 .birthminutes {
     position: absolute;
     bottom: 0;
     right: 252px;
     margin-bottom: -530px;
 }
+
 /*
 HEART ICON IN FOOTER
 */
 .site-footer .icon {
     font-size: 20px;
 }
+
 .site-footer .love .icon {
     font-size: 20px;
     margin-left: 2px;
     margin-right: 2px;
 }
+
 /*
 ABOUT US PAGE
 */
-.about_img{
+.about_img {
     display: table;
     line-height: 1%;
     margin: auto 10px 20px 10px;
@@ -403,12 +467,14 @@ ABOUT US PAGE
     top: 0;
     width: 100%;
 }
+
 .aboutuspage h5 {
     font-size: 28px;
     padding-top: -5px;
     margin: 0px;
     font-family: 'Dancing Script', cursive;
 }
+
 .aboutus p {
     font-family: 'Roboto', sans-serif;
     font-size: 22px;
@@ -416,39 +482,49 @@ ABOUT US PAGE
     padding-top: 30px;
     margin: 0px;
 }
+
 .aboutus h5 {
     font-size: 28px;
     padding-top: 30px;
     margin: 0px;
     font-family: 'Dancing Script', cursive;
 }
+
 .workspace {
     padding-left: 20px;
 }
+
 .aboutusimg img {
     width: 100%;
 }
+
 .process {
     padding-top: 20px;
 }
+
 .merit {
     padding-top: 20px;
 }
-.merit:hover, .process:hover{
+
+.merit:hover, .process:hover {
     opacity: 0.7;
 }
+
 .process img {
     width: 100%;
 }
+
 .merit img {
     width: 100%;
     margin-bottom: 20px;
 }
+
 .ingress {
-    margin-top:20px;
+    margin-top: 20px;
     margin-bottom: 50px;
     background-color: white;
 }
+
 /*
 CONTACT PAGE
 */
@@ -457,21 +533,25 @@ CONTACT PAGE
     text-align: center;
     margin-bottom: 20px;
 }
+
 .contactform input {
     width: 100%;
     border-radius: 0px;
     text-align: center;
     background-color: #ECEAE5;
 }
+
 .contactbutton input {
     width: 20%;
     background-color: #65a8a7;
     margin-bottom: 30px;
     color: white;
 }
+
 .contactbutton input:hover {
     background: #83d1d0;
 }
+
 /*
 ADD TO CART
 */
@@ -484,9 +564,11 @@ ADD TO CART
     border: none;
     margin-top: 35px;
 }
+
 .single_add_to_cart_button:hover {
     background-color: #8fbc8f;
 }
+
 /*
 TAVLA
 */
@@ -496,41 +578,52 @@ TAVLA
     text-align: center;
     margin-bottom: 40px;
 }
+
 input#birth_hours {
     width: 25%;
     float: right;
 }
+
 input#birth_minutes {
     width: 25%;
-    float:left;
+    float: left;
 }
+
 p.thwepo-extra-options.form-row.form-row-wide {
     font-size: 20px;
     padding: 0px;
 }
+
 .labelhours, .labelname, .labelday, .labellength, .labelweight {
     display: none;
 }
+
 .labelminutes {
     align-items: center;
     display: flex;
     margin: 0 2px 0 2px;
 }
+
 .required {
     display: none;
 }
+
 .min {
     display: flex;
 }
+
 .woocommerce-product-gallery.woocommerce-product-gallery--with-images.woocommerce-product-gallery--columns-4.images.col-lg-6 {
     clear: both;
 }
+
 .produktbild {
     clear: both;
 }
+
 #birth_date, #birth_length, #birth_weight, #birth_name {
     width: 60%;
 }
+
 /*
 WOOCOMMERCE PLUGIN COSTUM
 */
@@ -539,48 +632,60 @@ WOOCOMMERCE PLUGIN COSTUM
     padding: 20px;
     margin-bottom: 20px;
 }
+
 .woocommerce table.shop_table td {
-    border-top: 2px solid rgba(0,0,0,.1) !important;
+    border-top: 2px solid rgba(0, 0, 0, .1) !important;
 }
 
 dd.variation-FDELSETID, dd.variation- {
     display: inline-flex;
 }
+
 dt.variation- {
     display: none !important;
 }
+
 .coupon #coupon_code {
     width: 100%;
     display: block;
     border-radius: 0px;
     margin: 10px 0;
 }
+
 .coupon input {
     width: 100%;
 }
+
 input#updatebutton {
     width: 30%;
 }
+
 p.woocommerce-notice.woocommerce-notice--success.woocommerce-thankyou-order-received {
     font-size: 20px;
     font-weight: bold;
 }
+
 .woocommerce ul.order_details {
     font-size: 20px;
 }
+
 .woocommerce-billing-fields__field-wrapper input {
     border-radius: 0px;
 }
+
 .woocommerce #payment #place_order {
     width: 100%;
     padding: 20px;
 }
+
 .woocommerce .quantity .qty {
     background-color: #ECEAE5;
 }
+
 div.wpcf7 .ajax-loader {
     display: none !important;
 }
+
 .wpcf7-textarea {
     width: 458px;
     height: 216px;
@@ -594,52 +699,62 @@ POSITION FOR PRICE
 .summary.entry-summary {
     position: relative;
 }
+
 span.woocommerce-Price-amount.amount {
     font-size: 20px;
     font-weight: bold;
 }
-#wc-stripe-payment-request-wrapper{
+
+#wc-stripe-payment-request-wrapper {
     display: none;
 }
+
 /*
 INSTAGRAM FEED
 */
-#instagram{
-    display:flex;
-    flex-wrap:wrap;
-    justify-content:space-between;
-    align-items:center;
-    margin-top:-.5vw;
-    margin-left:-.5vw;
-    margin-right:-.5vw
+#instagram {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: -.5vw;
+    margin-left: -.5vw;
+    margin-right: -.5vw
 }
-#instagram:hover a{
-    opacity:.8
+
+#instagram:hover a {
+    opacity: .8
 }
-#instagram a{
-    flex-grow:1;
-    flex-basis:calc(100%/10);
-    line-height:0;
-    transition:opacity .2s ease-in-out;
-    border:.5vw solid transparent
+
+#instagram a {
+    flex-grow: 1;
+    flex-basis: calc(100% / 10);
+    line-height: 0;
+    transition: opacity .2s ease-in-out;
+    border: .5vw solid transparent
 }
-#instagram a:hover{
-    opacity:2;
+
+#instagram a:hover {
+    opacity: 2;
 }
-#instagram img{
-    width:100%;
+
+#instagram img {
+    width: 100%;
 }
+
 #instagram {
     padding-top: 1%;
     padding-right: 1%;
     float: right;
 }
+
 .instagram p {
     font-family: 'Dancing Script', cursive;
     text-align: left;
     font-size: 52px;
     color: black;
 }
+
 /*
 MOBILE
  */
@@ -648,11 +763,13 @@ MOBILE
         padding: 42px 0;
     }
 }
+
 @media (min-width: 600px) {
     .showcase h1 {
         margin-top: -60px;
     }
 }
+
 /*
 FRONTPAGE
 */
@@ -660,21 +777,25 @@ FRONTPAGE
     .inspo {
         margin: 0;
     }
+
     .saleparents {
         margin-top: 20px;
     }
+
     .sale {
         margin: 0px;
     }
 }
+
 /*
 NYHETSBREV
 */
 @media (min-width: 768px) {
-    .newsletter .single .form-control{
+    .newsletter .single .form-control {
         padding: 1px 60px;
     }
 }
+
 /*
 SKAPA TAVLA JQUERY
 */
@@ -682,45 +803,57 @@ SKAPA TAVLA JQUERY
     .birthlengthoutput {
         left: 9%;
     }
+
     .birthnameoutput {
         right: 64px;
     }
+
     .birthweightoutput {
         right: 2%;
     }
+
     .birthdayoutput {
         left: 29%;
     }
+
     .birthhours {
         right: 38%;
     }
+
     .birthminutes {
         right: 32%;
     }
+
     input#birth_minutes {
         width: 66% !important;
     }
+
     input#birth_hours {
         width: 40% !important;
     }
+
     .thwepo-extra-options input {
         width: 100% !important;
     }
+
     .quantity {
         display: inline-block;
     }
+
     .quantity input {
         width: 25%;
     }
 }
+
 /*
 ABOUT US
 */
-@media (min-width: 575px ){
+@media (min-width: 575px ) {
     .ingress {
         padding: 104px 88px;
     }
 }
+
 /*
 FORM
 */
@@ -728,18 +861,21 @@ FORM
     .labelminutes {
         display: none;
     }
+
     /*
     INSTAGRAM
     */
     #instagram a {
-        flex-basis:calc(100%/2);
+        flex-basis: calc(100% / 2);
     }
 }
+
 @media (max-width: 435px) {
     .contactbutton input {
         width: 100%;
     }
 }
+
 /*
 WOOCOMMERCE
 */
@@ -748,16 +884,19 @@ WOOCOMMERCE
         padding: 30px;
     }
 }
+
 @media (max-width: 375px) {
     .wpcf7-textarea {
         width: 280px !important;
     }
 }
+
 @media (max-width: 435px) {
     .wpcf7-textarea {
         width: 381px;
     }
 }
+
 /*
 STICKY MENU
 */
@@ -773,9 +912,11 @@ HAMBURGARE MENU
         display: none;
     }
 }
+
 .topnav {
     overflow: hidden;
 }
+
 .topnav a {
     float: left;
     display: block;
@@ -784,57 +925,98 @@ HAMBURGARE MENU
     text-decoration: none;
     font-size: 17px;
 }
+
 .topnav .icon {
     display: none;
 }
-@media screen and (max-width: 767px) {
-    .topnav a:not(:first-child) {display: none;}
-    .topnav a.icon {
-        float: right;
-        display: block;
-    }
-}
 
 @media screen and (max-width: 767px) {
-    .topnav.responsive {position: relative;}
+    .topnav.responsive {
+        position: relative;
+    }
+
     .topnav.responsive .icon {
         position: absolute;
         right: 0;
         top: 0;
     }
+
     .topnav.responsive a {
         float: none;
         display: block;
         text-align: left;
     }
 
+    .topnav a:not(:first-child) {
+        display: none;
+    }
+
+    .topnav a.icon {
+        float: right;
+        display: block;
+    }
+
 }
+
 /*--------------------------------------------------------------
 ## Text Slider
 --------------------------------------------------------------*/
 .textauthor1, .textauthor2, .textauthor3 {
     text-align: center;
 }
+
 .textauthor1 h5, .textauthor2 h5, .textauthor3 h5 {
     font-size: 20px;
     margin: 0;
     padding-bottom: 10px;
 }
+
 .textauthor1 p, .textauthor2 p, .textauthor3 p {
     font-size: 20px;
     margin: 0;
     padding-top: 10px;
 }
+
 .section-15 {
     background-color: #e2e2e2;
     padding: 20rem 0 20rem 0;
 }
+
+/*
+  Från tablet och uppåt
+*/
 @media (min-width: 768px) {
     .section-15 {
         clip-path: polygon(0 25%, 100% 0, 100% 75%, 0% 100%);
         margin-bottom: 40px;
     }
+
+    .ingresshome {
+        padding-left: 120px;
+    }
 }
+
+/*
+  För alla mobiler
+*/
+@media (max-width: 425px) {
+    .productid2 {
+        display: none;
+    }
+
+    .front-header {
+        height: 600px;
+    }
+
+    .img_btn_1, .img_btn_2 {
+        background-color: #FBDCCE !important;
+    }
+
+    .ingresshome {
+        text-align: center;
+    }
+}
+
 /*
   Header buttons/text
 */
@@ -843,22 +1025,24 @@ HAMBURGARE MENU
     align-items: center;
     height: 850px;
 }
-.ingresshome p {
-    color: black;
+
+.ingresshome {
+    color: white;
 }
 
 .ingresshome h2 {
     font-size: 40px;
-    color: black;
     padding: 0px;
     margin: 0px;
+    color: #FBDCCE;
+
 }
 
 .img_btn_1, .img_btn_2 {
     background-color: transparent;
     padding: 10px 50px;
     margin-top: 25px;
-    color: black;
+    color: white;
     transition: 400ms ease-in
 }
 
@@ -873,13 +1057,4 @@ HAMBURGARE MENU
 .img_btn_1 a, .img_btn_2 a {
     color: white;
     text-decoration: none;
-}
-.centerbutton {
-    text-align: center;
-}
-.ingresshome h2 {
-    text-align: center;
-}
-.ingresshome p {
-    text-align: center;
 }

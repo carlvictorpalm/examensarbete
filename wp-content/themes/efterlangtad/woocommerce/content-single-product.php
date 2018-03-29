@@ -15,14 +15,14 @@
  * happen. When this occurs the version of the template file will be bumped and
  * the readme will list any important changes.
  *
- * @see 	    https://docs.woocommerce.com/document/template-structure/
- * @author 		WooThemes
- * @package 	WooCommerce/Templates
+ * @see        https://docs.woocommerce.com/document/template-structure/
+ * @author        WooThemes
+ * @package    WooCommerce/Templates
  * @version     3.0.0
  */
 
 
-if ( ! defined( 'ABSPATH' ) ) {
+if (!defined('ABSPATH')) {
     exit; // Exit if accessed directly
 }
 
@@ -34,9 +34,9 @@ if ( ! defined( 'ABSPATH' ) ) {
  *
  * @hooked wc_print_notices - 10
  */
-do_action( 'woocommerce_before_single_product' );
+do_action('woocommerce_before_single_product');
 
-if ( post_password_required() ) {
+if (post_password_required()) {
     echo get_the_password_form();
     return;
 }
@@ -52,12 +52,12 @@ if ( post_password_required() ) {
     ?>
     <div class="produktbild col-lg-6">
 
-    <?php
-    /**
-     * @hooked woocommerce_show_product_images - 20
-     */
-    do_action( 'woocommerce_before_single_product_summary' );
-    ?>    </div>
+        <?php
+        /**
+         * @hooked woocommerce_show_product_images - 20
+         */
+        do_action('woocommerce_before_single_product_summary');
+        ?>    </div>
 
 
     <div class="summary entry-summary singleproduct col-lg-6">
@@ -75,17 +75,16 @@ if ( post_password_required() ) {
          * @hooked woocommerce_template_single_sharing - 50
          * @hooked WC_Structured_Data::generate_product_data() - 60
          */
-        add_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_price', 30 );
-        do_action( 'woocommerce_single_product_summary' );
-        remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_price', 10 );
+        add_action('woocommerce_single_product_summary', 'woocommerce_template_single_price', 30);
+        do_action('woocommerce_single_product_summary');
+        remove_action('woocommerce_single_product_summary', 'woocommerce_template_single_price', 10);
         ?>
 
     </div><!-- .summary -->
 
 
-
 </div><!-- #product-<?php the_ID(); ?> -->
 
-<?php do_action( 'woocommerce_after_single_product' ); ?>
+<?php do_action('woocommerce_after_single_product'); ?>
 
 

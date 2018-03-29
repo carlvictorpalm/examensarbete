@@ -60,12 +60,12 @@
 if ( ! empty( $image ) ): ?>
     <div class="front-header"
          style="background-position: center; background-repeat: no-repeat; background-size: cover; background-image: url('<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>')">
-        <div class="ingresshome col-xs-5 col-md-6 col-lg-5">
+        <div class="ingresshome col-xs-12 col-md-6 col-lg-5">
             <h2><?php the_field('bg_title'); ?></h2>
             <p><?php the_field('bg_text'); ?></p>
             <div class="centerbutton">
-                <a href="index.php?page_id=6"><button class="img_btn_1">Ansök nu</button></a>
-                <a href="index.php?page_id=5"><button class="img_btn_2">Läs Mer</button></a>
+                <a href="index.php?page_id=64"><button class="img_btn_1">Skapa din tavla</button></a>
+                <a href="index.php?page_id=17"><button class="img_btn_2">Läs Mer</button></a>
             </div>
         </div>
     </div>
