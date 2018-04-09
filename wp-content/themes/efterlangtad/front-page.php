@@ -82,7 +82,7 @@ if ( ! empty( $image ) ): ?>
            TRUSTBAR SECTION
        -->
             <div class="trustbar">
-                <img src=" <?php echo get_bloginfo('template_url') ?>/img/trustbar.jpg" alt="">
+                <img src=" <?php echo get_bloginfo('template_url') ?>/img/trustbar.png" alt="">
             </div>
             <!--
             ABOUT US SECTION
