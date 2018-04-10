@@ -380,7 +380,6 @@ SKAPA TAVLAN PAGE
 
 .quantity input {
     width: 10%;
-    margin-bottom: 20px;
 }
 
 .form {
@@ -645,10 +644,6 @@ WOOCOMMERCE PLUGIN COSTUM
     margin-bottom: 20px;
 }
 
-.woocommerce table.shop_table td {
-    border-top: 2px solid rgba(0, 0, 0, .1) !important;
-}
-
 dd.variation-FDELSETID, dd.variation- {
     display: inline-flex;
 }
@@ -857,6 +852,9 @@ SKAPA TAVLA JQUERY
     .quantity input {
         width: 25%;
     }
+}
+.woocommerce a.remove {
+    color: black !important;
 }
 
 /*
