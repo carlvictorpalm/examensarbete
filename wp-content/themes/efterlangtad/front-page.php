@@ -18,59 +18,12 @@
         <link href="<?php bloginfo('stylesheet_url'); ?>" rel="stylesheet">
         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
         <?php wp_head(); ?>
-        <style>
-            .showcase {
-                background: url(<?php echo get_theme_mod('showcase_image', get_bloginfo('template_url').'/img/lapin.jpg'); ?>) no-repeat center center;
-            }
-        </style>
+
     </head>
 <body>
+<?php get_header(); ?>
 
-<div class="blog-masthead">
-    <div class="container">
-        <nav class="blog-nav">
-            <?php
-            wp_nav_menu(array(
-                    'menu' => 'primary',
-                    'theme_location' => 'primary',
-                    'depth' => 2,
-                    'container' => 'div',
-                    'container_class' => 'collapse navbar-collapse',
-                    'container_id' => 'bs-example-navbar-collapse-1',
-                    'menu_class' => 'nav navbar-nav',
-                    'fallback_cb' => 'wp_bootstrap_navwalker::fallback',
-                    'walker' => new wp_bootstrap_navwalker())
-            );
-            ?>
 
-        </nav>
-    </div>
-</div>
-<div class="topnav sticky-top" id="myTopnav">
-    <a href="#home">Hem</a>
-    <a href="http://localhost/examensarbete/produkt/personlig-fodelsetavla/">Skapa tavla</a>
-    <a href="http://localhost/examensarbete/illustrationer/">Illustration</a>
-    <a href="http://localhost/examensarbete/om-oss/">Om oss</a>
-    <a href="http://localhost/examensarbete/kontakt/">Kontakt</a>
-    <a href="http://localhost/examensarbete/cart/">Varukorg</a>
-    <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
-</div>
-<?php if (is_front_page())
-    $image = get_field( 'bg_img' );
-if ( ! empty( $image ) ): ?>
-    <div class="front-header"
-         style="background-position: center; background-repeat: no-repeat; background-size: cover; background-image: url('<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>')">
-        <div class="ingresshome col-xs-12 col-md-6 col-lg-5">
-            <h2><?php the_field('bg_title'); ?></h2>
-            <p><?php the_field('bg_text'); ?></p>
-            <div class="centerbutton">
-                <a href="index.php?page_id=64"><button class="img_btn_1">Skapa din tavla</button></a>
-                <a href="index.php?page_id=17"><button class="img_btn_2">Läs Mer</button></a>
-            </div>
-        </div>
-    </div>
-
-<?php endif; ?>
 
 <div class="container">
 

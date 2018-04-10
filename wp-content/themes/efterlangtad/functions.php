@@ -9,7 +9,8 @@
 
     // Nav Menus
     register_nav_menus(array(
-      'primary' => __('Primary Menu')
+      'primary' => __('Primary Menu'),
+        'footer-menu' => __('Footer Menu')
     ));
 
     // Post Formats

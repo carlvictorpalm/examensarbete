@@ -20,32 +20,27 @@
   <body>
     <div class="blog-masthead">
       <div class="container">
-        <nav class="blog-nav">
-          <?php
-           wp_nav_menu( array(
-              'menu'              => 'primary',
-              'theme_location'    => 'primary',
-              'depth'             => 2,
-              'container'         => 'div',
-              'container_class'   => 'collapse navbar-collapse',
-              'container_id'      => 'bs-example-navbar-collapse-1',
-              'menu_class'        => 'nav navbar-nav',
-              'fallback_cb'       => 'wp_bootstrap_navwalker::fallback',
-              'walker'            => new wp_bootstrap_navwalker())
-           );
-          ?>
+        <nav class="top-nav">
+
+            <?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
 
         </nav>
       </div>
     </div>
-    <div class="topnav sticky-top" id="myTopnav">
-        <a href="#home">Hem</a>
-        <a href="http://localhost/examensarbete/product/hasse/">Skapa tavla</a>
-        <a href="http://localhost/examensarbete/illustrationer/">Illustration</a>
-        <a href="http://localhost/examensarbete/om-oss/">Om oss</a>
-        <a href="http://localhost/examensarbete/kontakt/">Kontakt</a>
-        <a href="http://localhost/examensarbete/cart/">Varukorg</a>
-        <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
-    </div>
+    <?php if (is_front_page())
+        $image = get_field( 'bg_img' );
+    if ( ! empty( $image ) ): ?>
+        <div class="front-header"
+             style="background-position: center; background-repeat: no-repeat; background-size: cover; background-image: url('<?php echo $image['url']; ?>" alt="<?php echo $image['alt']; ?>')">
+            <div class="ingresshome col-xs-12 col-md-6 col-lg-5">
+                <h2><?php the_field('bg_title'); ?></h2>
+                <p><?php the_field('bg_text'); ?></p>
+                <div class="centerbutton">
+                    <a href="index.php?page_id=64"><button class="img_btn_1">Skapa din tavla</button></a>
+                    <a href="index.php?page_id=17"><button class="img_btn_2">Läs Mer</button></a>
+                </div>
+            </div>
+        </div>
 
-    <div class="container">
+    <?php endif; ?>
+<div class="container">

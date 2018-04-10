@@ -103,6 +103,18 @@ input {
     color: #fff;
     text-decoration: none;
 }
+ul#menu-menu {
+    display: flex;
+    float: right;
+    height: 70px;
+    align-items: center;
+}
+
+
+.menu a {
+    padding: 14px 16px;
+    font-size: 15px;
+}
 
 /* Active state gets a caret at the bottom */
 
@@ -658,6 +670,8 @@ dt.variation- {
 
 input#updatebutton {
     width: 30%;
+    padding: 20px;
+    background-color: white;
 }
 
 p.woocommerce-notice.woocommerce-notice--success.woocommerce-thankyou-order-received {
@@ -907,56 +921,37 @@ STICKY MENU
 /*
 HAMBURGARE MENU
 */
-@media (min-width: 767px) {
-    .topnav {
-        display: none;
-    }
-}
 
-.topnav {
-    overflow: hidden;
-}
-
-.topnav a {
-    float: left;
-    display: block;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-}
-
-.topnav .icon {
-    display: none;
-}
 
 @media screen and (max-width: 767px) {
-    .topnav.responsive {
+    .menu.responsive {
         position: relative;
     }
 
-    .topnav.responsive .icon {
+    .menu.responsive .icon {
         position: absolute;
         right: 0;
         top: 0;
     }
 
-    .topnav.responsive a {
+    .menu.responsive a {
         float: none;
         display: block;
         text-align: left;
     }
 
-    .topnav a:not(:first-child) {
+    .menu a:not(:first-child) {
         display: none;
     }
 
-    .topnav a.icon {
+    .menu a.icon {
         float: right;
         display: block;
     }
 
 }
+
+
 
 /*--------------------------------------------------------------
 ## Text Slider
