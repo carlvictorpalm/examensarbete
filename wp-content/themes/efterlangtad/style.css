@@ -52,7 +52,6 @@ h6, .h6 {
 }
 
 input {
-    width: 60%;
     padding: 20px;
     font-size: 20px;
     border-radius: 20px;
@@ -355,6 +354,9 @@ NEWSLETTER SIGNUP FORM
 /*
  * FOOTER
  */
+.footercontact{
+    color: black;
+}
 .blog-footer {
     padding: 30px 0;
     text-align: center;
@@ -370,7 +372,12 @@ NEWSLETTER SIGNUP FORM
 .copy {
     margin-top: 20px;
 }
-
+ul#menu-footer-menu {
+    padding: 0;
+}
+ul#menu-footer-menu li {
+    margin-bottom: 10px;
+}
 /*
 SKAPA TAVLAN PAGE
 */
