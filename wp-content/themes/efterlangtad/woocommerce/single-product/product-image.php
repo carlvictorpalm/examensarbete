@@ -51,6 +51,7 @@ $wrapper_classes   = apply_filters( 'woocommerce_single_product_image_gallery_cl
 
 			$html .= get_the_post_thumbnail( $post->ID, 'shop_single', $attributes );
 			?>
+
             <div class="picture col-lg-12">
                 <div class="birthnameoutput"></div>
                 <div class="birthlengthoutput"></div>

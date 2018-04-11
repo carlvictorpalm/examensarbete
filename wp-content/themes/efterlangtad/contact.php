@@ -4,7 +4,7 @@ get_header(); ?>
     <!--
 	CONTACT PAGE
 	-->
-
+<div class="container">
     <div class="row">
         <div class="wrapper">
             <?php while (have_posts()): the_post(); ?>

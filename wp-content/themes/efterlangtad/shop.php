@@ -1,7 +1,7 @@
 <?php /* Template Name: shop */
 
 get_header();?>
-
+<div class="container">
     <div class="row">
         <div class="wrapper">
 	        <?php while (have_posts()): the_post(); ?>

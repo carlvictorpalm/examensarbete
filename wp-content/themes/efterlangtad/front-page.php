@@ -25,7 +25,6 @@
 
 
 
-<div class="container">
 
     <div class="row">
         <div class="wrapper">
@@ -143,7 +142,6 @@
         </div>
     </div>
 </div>
-
 <div class="section-15">
     <div class="container">
         <div class="textauthor1 mx-auto col-lg-4">
