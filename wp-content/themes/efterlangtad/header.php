@@ -18,14 +18,26 @@
       <?php wp_head(); ?>
   </head>
   <body>
+
     <div class="blog-masthead">
-      <div class="container">
-        <nav class="top-nav">
+        <div class="container">
+            <nav class="blog-nav">
+                <?php
+                wp_nav_menu( array(
+                        'menu'              => 'primary',
+                        'theme_location'    => 'primary',
+                        'depth'             => 2,
+                        'container'         => 'div',
+                        'container_class'   => 'collapse navbar-collapse',
+                        'container_id'      => 'bs-example-navbar-collapse-1',
+                        'menu_class'        => 'nav navbar-nav',
+                        'fallback_cb'       => 'wp_bootstrap_navwalker::fallback',
+                        'walker'            => new wp_bootstrap_navwalker())
+                );
+                ?>
 
-            <?php wp_nav_menu( array( 'theme_location' => 'primary' ) ); ?>
-
-        </nav>
-      </div>
+            </nav>
+        </div>
     </div>
     <?php if (is_front_page())
         $image = get_field( 'bg_img' );

@@ -50,7 +50,7 @@ if (post_password_required()) {
      * @hooked woocommerce_show_product_sale_flash - 10
      */
     ?>
-    <div class="produktbild col-lg-6">
+    <div class="produktbild col-lg-6 col-md-6">
 
         <?php
         /**
@@ -60,7 +60,7 @@ if (post_password_required()) {
         ?>    </div>
 
 
-    <div class="summary entry-summary singleproduct col-lg-6">
+    <div class="summary entry-summary singleproduct col-lg-6 col-md-6">
 
         <?php
         /**
