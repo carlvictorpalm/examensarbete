@@ -8,7 +8,7 @@ ABOUT US PAGE
         <div class="wrapper">
             <div class="title">
                 <h1>Om oss</h1>
-                <h3>Vi är efterlängtad.se. Två studenter ett examensarbete<br>Skapad genom kärleksfulla idéer.</h3>
+                <p>Vi är efterlängtad.se. Två studenter ett examensarbete<br>Skapad genom kärleksfulla idéer.</p>
                 <div class="aboutusimg col-md-12">
                     <img src=" <?php echo get_bloginfo('template_url') ?>/img/about_us_img.jpg" alt="">
                 </div>

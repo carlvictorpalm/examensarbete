@@ -173,7 +173,7 @@
                             <p>Prenumerera på vårat nyhetsbrev och få 10% rabatt på din första beställning. Få löpande
                                 erbjudande, insperation och nyheter från äntligen.se.</p>
                             <div class="input-group">
-                                <input type="email" class="form-control" placeholder="Din e-post">
+                                <input type="email" class="form-control" placeholder="Din mail">
                                 <span class="input-group-btn">
                                 <button class="btn btn-theme" type="submit">Prenumerera</button>
                             </span>

@@ -24,6 +24,7 @@
         <div class="container">
             <nav class="blog-nav">
                 <div class="navbar-brand">
+                    <div class="logo_el">
                     <?php if ( get_theme_mod( 'wp_bootstrap_starter_logo' ) ): ?>
                         <a href="<?php echo esc_url( home_url( '/' )); ?>">
                             <img src="<?php echo esc_attr(get_theme_mod( 'wp_bootstrap_starter_logo' )); ?>" alt="<?php echo esc_attr( get_bloginfo( 'name' ) ); ?>">
@@ -32,6 +33,7 @@
                         <a class="site-title" href="<?php echo esc_url( home_url( '/' )); ?>"><?php esc_url(bloginfo('name')); ?></a>
                     <?php endif; ?>
 
+                    </div>
                 </div>
                 <?php
                 wp_nav_menu( array(
