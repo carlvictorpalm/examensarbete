@@ -3,33 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2753653f-6d68-4dbd-ba82-40fda0370036" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/efterlangtad/functions.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/efterlangtad/header.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/inc/customizer.php" afterPath="$PROJECT_DIR$/wp-content/themes/efterlangtad/inc/customizer.php" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/js/instafeed.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/js/main.js" afterPath="$PROJECT_DIR$/wp-content/themes/efterlangtad/js/main.js" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/trustbar-1024x290.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/trustbar-150x150.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/trustbar-300x85.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/trustbar-768x218.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/trustbar.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/april-interior-design-wordpress-website-template-1024x791.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/april-interior-design-wordpress-website-template-150x150.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/april-interior-design-wordpress-website-template-180x180.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/april-interior-design-wordpress-website-template-300x232.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/april-interior-design-wordpress-website-template-300x300.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/april-interior-design-wordpress-website-template-600x600.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/april-interior-design-wordpress-website-template-768x593.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/april-interior-design-wordpress-website-template.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-E-150x150.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-E-180x180.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-E-192x192.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-E-270x270.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-E-300x300.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-E-32x32.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-E.gif" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -99,11 +73,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/about.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="107" column="14" lean-forward="false" selection-start-line="107" selection-start-column="14" selection-end-line="107" selection-end-column="14" />
+            <state relative-caret-position="300">
+              <caret line="744" column="24" lean-forward="true" selection-start-line="744" selection-start-column="24" selection-end-line="744" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -140,9 +124,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>sale</find>
-      <find>cart</find>
-      <find>börja ska</find>
       <find>ingresshome</find>
       <find>front</find>
       <find>Primary Menu</find>
@@ -170,6 +151,9 @@
       <find>.navbar</find>
       <find>logo</find>
       <find>ul#menu-menu</find>
+      <find>instagram</find>
+      <find>.title h3</find>
+      <find>about</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -224,7 +208,6 @@
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/css/bootstrap.css" />
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/illustration.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/contact.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/about.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/shop.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/woocommerce/single-product/product-image.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/woocommerce/content-single-product.php" />
@@ -234,6 +217,7 @@
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/inc/customizer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/js/main.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/about.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css" />
       </list>
     </option>
@@ -453,12 +437,12 @@
       <workItem from="1521625204712" duration="347000" />
       <workItem from="1521635165283" duration="2070000" />
       <workItem from="1523274297370" duration="465000" />
-      <workItem from="1523361497767" duration="14021000" />
+      <workItem from="1523361497767" duration="14543000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="152469000" />
+    <option name="totallyTimeSpent" value="152991000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -758,14 +742,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/about.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/plugins/woocommerce/templates/checkout/form-billing.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -893,10 +869,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="30" lean-forward="true" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="107" column="14" lean-forward="false" selection-start-line="107" selection-start-column="14" selection-end-line="107" selection-end-column="14" />
+        <state relative-caret-position="300">
+          <caret line="744" column="24" lean-forward="true" selection-start-line="744" selection-start-column="24" selection-end-line="744" selection-end-column="24" />
           <folding />
         </state>
       </provider>

@@ -729,41 +729,6 @@ span.woocommerce-Price-amount.amount {
 /*
 INSTAGRAM FEED
 */
-#instagram {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: -.5vw;
-    margin-left: -.5vw;
-    margin-right: -.5vw
-}
-
-#instagram:hover a {
-    opacity: .8
-}
-
-#instagram a {
-    flex-grow: 1;
-    flex-basis: calc(100% / 10);
-    line-height: 0;
-    transition: opacity .2s ease-in-out;
-    border: .5vw solid transparent
-}
-
-#instagram a:hover {
-    opacity: 2;
-}
-
-#instagram img {
-    width: 100%;
-}
-
-#instagram {
-    padding-top: 1%;
-    padding-right: 1%;
-    float: right;
-}
 
 .instagram p {
     font-family: 'Dancing Script', cursive;
