@@ -105,7 +105,7 @@ input {
 ul#menu-menu {
     display: flex;
     float: right;
-    height: 70px;
+    height: 92px;
     align-items: center;
 }
 
@@ -1062,4 +1062,23 @@ HAMBURGARE MENU
 
 .woocommerce-error, .woocommerce-error li {
     display: none !important;
+}
+
+.navbar-brand > a {
+    color: rgba(0, 0, 0, 0.9);
+    font-size: 1.1rem;
+    outline: medium none;
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+}
+.navbar-brand {
+    width: 20%;
+}
+
+.navbar-brand > a:visited, .navbar-brand > a:hover {
+    text-decoration: none;
+}
+.navbar-brand {
+    height: auto;
 }

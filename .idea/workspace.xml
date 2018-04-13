@@ -3,7 +3,33 @@
   <component name="ChangeListManager">
     <list default="true" id="2753653f-6d68-4dbd-ba82-40fda0370036" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/efterlangtad/functions.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/efterlangtad/header.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/inc/customizer.php" afterPath="$PROJECT_DIR$/wp-content/themes/efterlangtad/inc/customizer.php" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/js/instafeed.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/js/main.js" afterPath="$PROJECT_DIR$/wp-content/themes/efterlangtad/js/main.js" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/trustbar-1024x290.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/trustbar-150x150.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/trustbar-300x85.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/trustbar-768x218.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/01/trustbar.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/april-interior-design-wordpress-website-template-1024x791.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/april-interior-design-wordpress-website-template-150x150.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/april-interior-design-wordpress-website-template-180x180.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/april-interior-design-wordpress-website-template-300x232.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/april-interior-design-wordpress-website-template-300x300.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/april-interior-design-wordpress-website-template-600x600.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/april-interior-design-wordpress-website-template-768x593.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/april-interior-design-wordpress-website-template.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-E-150x150.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-E-180x180.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-E-192x192.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-E-270x270.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-E-300x300.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-E-32x32.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/wp-content/uploads/2018/03/cropped-E.gif" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,15 +55,15 @@
       <file leaf-file-name="front-page.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1815">
-              <caret line="213" column="7" lean-forward="false" selection-start-line="213" selection-start-column="7" selection-end-line="213" selection-end-column="7" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <element signature="e#1312#1449#0#HTML" expanded="false" />
-                <element signature="e#1520#2549#0#HTML" expanded="false" />
-                <element signature="e#2624#5283#0#HTML" expanded="false" />
-                <element signature="e#5349#6507#0#HTML" expanded="false" />
-                <element signature="e#6512#6709#0#HTML" expanded="false" />
-                <element signature="e#8195#8225#0#HTML" expanded="false" />
+                <element signature="e#212#349#0#HTML" expanded="false" />
+                <element signature="e#420#1449#0#HTML" expanded="false" />
+                <element signature="e#1524#4183#0#HTML" expanded="false" />
+                <element signature="e#4249#5407#0#HTML" expanded="false" />
+                <element signature="e#5412#5609#0#HTML" expanded="false" />
+                <element signature="e#7095#7125#1#HTML" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -46,8 +72,28 @@
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="510">
+              <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customizer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/inc/customizer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="914">
+              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -56,8 +102,28 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="869">
-              <caret line="1065" column="0" lean-forward="true" selection-start-line="1065" selection-start-column="0" selection-end-line="1065" selection-end-column="0" />
+            <state relative-caret-position="359">
+              <caret line="107" column="14" lean-forward="false" selection-start-line="107" selection-start-column="14" selection-end-line="107" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -74,9 +140,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>skapa tavla</find>
-      <find>sales</find>
-      <find>newsletter</find>
       <find>sale</find>
       <find>cart</find>
       <find>börja ska</find>
@@ -104,6 +167,9 @@
       <find>produktbild</find>
       <find>label.error</find>
       <find>.woocommerce table.shop_table td</find>
+      <find>.navbar</find>
+      <find>logo</find>
+      <find>ul#menu-menu</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -118,8 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/wp-content/themes/versioner /eferlangtad2/front-page.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/versioner /eferlangtad2/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/versioner /eferlangtad2/about.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/versioner /eferlangtad3/js/create-poster.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/eferlangtad/js/instafeed.min.js" />
@@ -152,7 +216,6 @@
         <option value="$PROJECT_DIR$/Installationsanvisningar.txt" />
         <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/wc-formatting-functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/woocommerce/cart/cart.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/functions.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/js/validation.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/cart.php" />
@@ -164,10 +227,13 @@
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/about.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/shop.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/woocommerce/single-product/product-image.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php" />
-        <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/woocommerce/content-single-product.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/js/create-poster.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/inc/customizer.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/js/main.js" />
         <option value="$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css" />
       </list>
     </option>
@@ -183,7 +249,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="70" />
+    <option name="x" value="68" />
     <option name="y" value="23" />
     <option name="width" value="2234" />
     <option name="height" value="1229" />
@@ -235,32 +301,7 @@
               <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="efterlangtad" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="examensarbete" type="b2602c69:ProjectViewProjectNode" />
-              <item name="examensarbete" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="efterlangtad" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="examensarbete" type="b2602c69:ProjectViewProjectNode" />
-              <item name="examensarbete" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="efterlangtad" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="woocommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="examensarbete" type="b2602c69:ProjectViewProjectNode" />
-              <item name="examensarbete" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="wp-content" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="efterlangtad" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="woocommerce" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="single-product" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -412,12 +453,12 @@
       <workItem from="1521625204712" duration="347000" />
       <workItem from="1521635165283" duration="2070000" />
       <workItem from="1523274297370" duration="465000" />
-      <workItem from="1523361497767" duration="11782000" />
+      <workItem from="1523361497767" duration="14021000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150230000" />
+    <option name="totallyTimeSpent" value="152469000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -429,7 +470,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="23" width="2234" height="1229" extended-state="0" />
+    <frame x="68" y="23" width="2234" height="1229" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1217547" sideWeight="0.4945055" order="0" side_tool="false" content_ui="combo" />
@@ -467,25 +508,11 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Installationsanvisningar.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/js/validation.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="17" lean-forward="false" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/about.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -499,12 +526,12 @@
         <state relative-caret-position="2505">
           <caret line="167" column="25" lean-forward="false" selection-start-line="167" selection-start-column="25" selection-end-line="167" selection-end-column="25" />
           <folding>
-            <element signature="e#1312#1449#0#HTML" expanded="false" />
-            <element signature="e#1520#2549#0#HTML" expanded="false" />
-            <element signature="e#2624#5283#0#HTML" expanded="false" />
-            <element signature="e#5349#6507#0#HTML" expanded="false" />
-            <element signature="e#6512#6709#0#HTML" expanded="false" />
-            <element signature="e#8195#8225#0#HTML" expanded="false" />
+            <element signature="e#212#349#0#HTML" expanded="false" />
+            <element signature="e#420#1449#0#HTML" expanded="false" />
+            <element signature="e#1524#4183#0#HTML" expanded="false" />
+            <element signature="e#4249#5407#0#HTML" expanded="false" />
+            <element signature="e#5412#5609#0#HTML" expanded="false" />
+            <element signature="e#7095#7125#1#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -559,12 +586,12 @@
         <state relative-caret-position="1665">
           <caret line="111" column="49" lean-forward="false" selection-start-line="111" selection-start-column="49" selection-end-line="111" selection-end-column="49" />
           <folding>
-            <element signature="e#1312#1449#0#HTML" expanded="false" />
-            <element signature="e#1520#2549#0#HTML" expanded="false" />
-            <element signature="e#2624#5283#0#HTML" expanded="false" />
-            <element signature="e#5349#6507#0#HTML" expanded="false" />
-            <element signature="e#6512#6709#0#HTML" expanded="false" />
-            <element signature="e#8195#8225#0#HTML" expanded="false" />
+            <element signature="e#212#349#0#HTML" expanded="false" />
+            <element signature="e#420#1449#0#HTML" expanded="false" />
+            <element signature="e#1524#4183#0#HTML" expanded="false" />
+            <element signature="e#4249#5407#0#HTML" expanded="false" />
+            <element signature="e#5412#5609#0#HTML" expanded="false" />
+            <element signature="e#7095#7125#1#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -582,12 +609,12 @@
         <state relative-caret-position="1500">
           <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
           <folding>
-            <element signature="e#1312#1449#0#HTML" expanded="false" />
-            <element signature="e#1520#2549#0#HTML" expanded="false" />
-            <element signature="e#2624#5283#0#HTML" expanded="false" />
-            <element signature="e#5349#6507#0#HTML" expanded="false" />
-            <element signature="e#6512#6709#0#HTML" expanded="false" />
-            <element signature="e#8195#8225#0#HTML" expanded="false" />
+            <element signature="e#212#349#0#HTML" expanded="false" />
+            <element signature="e#420#1449#0#HTML" expanded="false" />
+            <element signature="e#1524#4183#0#HTML" expanded="false" />
+            <element signature="e#4249#5407#0#HTML" expanded="false" />
+            <element signature="e#5412#5609#0#HTML" expanded="false" />
+            <element signature="e#7095#7125#1#HTML" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -689,22 +716,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/js/instafeed.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/js/bootstrap.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4048">
@@ -787,45 +798,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/functions.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="63" column="27" lean-forward="false" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1815">
-          <caret line="213" column="7" lean-forward="false" selection-start-line="213" selection-start-column="7" selection-end-line="213" selection-end-column="7" />
-          <folding>
-            <element signature="e#1312#1449#0#HTML" expanded="false" />
-            <element signature="e#1520#2549#0#HTML" expanded="false" />
-            <element signature="e#2624#5283#0#HTML" expanded="false" />
-            <element signature="e#5349#6507#0#HTML" expanded="false" />
-            <element signature="e#6512#6709#0#HTML" expanded="false" />
-            <element signature="e#8195#8225#0#HTML" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/js/validation.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="585">
@@ -850,10 +822,81 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="9" lean-forward="false" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/wp_bootstrap_navwalker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-663">
+          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/front-page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#212#349#0#HTML" expanded="false" />
+            <element signature="e#420#1449#0#HTML" expanded="false" />
+            <element signature="e#1524#4183#0#HTML" expanded="false" />
+            <element signature="e#4249#5407#0#HTML" expanded="false" />
+            <element signature="e#5412#5609#0#HTML" expanded="false" />
+            <element signature="e#7095#7125#1#HTML" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="73" column="0" lean-forward="false" selection-start-line="73" selection-start-column="0" selection-end-line="73" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/inc/customizer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="914">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="22" lean-forward="false" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/js/instafeed.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/efterlangtad/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="869">
-          <caret line="1065" column="0" lean-forward="true" selection-start-line="1065" selection-start-column="0" selection-end-line="1065" selection-end-column="0" />
+        <state relative-caret-position="359">
+          <caret line="107" column="14" lean-forward="false" selection-start-line="107" selection-start-column="14" selection-end-line="107" selection-end-column="14" />
           <folding />
         </state>
       </provider>
