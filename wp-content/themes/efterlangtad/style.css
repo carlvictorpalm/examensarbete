@@ -410,6 +410,7 @@ label.error {
     font-size: 15px;
     font-style: italic;
     padding: 5px;
+    color: red;
 }
 
 /*
@@ -1057,4 +1058,8 @@ HAMBURGARE MENU
 .img_btn_1 a, .img_btn_2 a {
     color: white;
     text-decoration: none;
+}
+
+.woocommerce-error, .woocommerce-error li {
+    display: none !important;
 }
